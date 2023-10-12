@@ -1,0 +1,36 @@
+# Ignore the .obsidian directory.
+.obsidian
+
+# Trash directory:
+.trash/
+
+# .DS_Store:
+.DS_Store
+
+# Other common files to ignore:
+
+# log files
+*.log
+
+# temporary files
+*.tmp
+*.temp
+
+# system generated files
+*.bak
+*~
+#*
+
+# compiled output, binaries etc.
+/bin/
+/obj/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Other IDE and editor specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
