@@ -4,28 +4,24 @@ kanban-plugin: basic
 
 ---
 
-## ADOPT
+## [[ADOPT]]
 
 - [ ] [[nvm]]
-- [ ] [[Cloudflare]]
-- [ ] [[Disk Inventory]]
 - [ ] [[Obsidian]]
+- [ ] [[Disk Inventory]]
 - [ ] [[git]]
-- [ ] [[Spring Boot]]
 
 
-## TRIAL
+## [[TRIAL]]
 
 - [ ] [[Sourcetree]]
-- [ ] [[HUGO]]
-- [ ] [[NextJS]]
 
 
-## ASSESS
+## [[ASSESS]]
 
 
 
-## HOLD
+## [[HOLD]]
 
 **Complete**
 - [x] [[Github Desktop]]

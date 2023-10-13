@@ -1,7 +1,5 @@
 ---
-code_url: https://github.com/nvm-sh/nvm
-types:
-  - tool
+source_code_url: https://github.com/nvm-sh/nvm
 ---
 _Why is nvm in Dojo_
 
