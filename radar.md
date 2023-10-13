@@ -7,10 +7,15 @@ kanban-plugin: basic
 ## ADOPT
 
 - [ ] [[nvm]]
+- [ ] [[Cloudflare]]
+- [ ] [[Disk Inventory]]
+- [ ] [[Obsidian]]
 
 
 ## TRIAL
 
+- [ ] [[Sourcetree]]
+- [ ] [[HUGO]]
 
 
 ## ASSESS
@@ -20,6 +25,7 @@ kanban-plugin: basic
 ## HOLD
 
 **Complete**
+- [x] [[Github Desktop]]
 
 
 
