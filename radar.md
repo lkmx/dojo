@@ -11,12 +11,14 @@ kanban-plugin: basic
 - [ ] [[Disk Inventory]]
 - [ ] [[Obsidian]]
 - [ ] [[git]]
+- [ ] [[Spring Boot]]
 
 
 ## TRIAL
 
 - [ ] [[Sourcetree]]
 - [ ] [[HUGO]]
+- [ ] [[NextJS]]
 
 
 ## ASSESS
