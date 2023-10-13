@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] [[Cloudflare]]
 - [ ] [[Disk Inventory]]
 - [ ] [[Obsidian]]
+- [ ] [[git]]
 
 
 ## TRIAL
