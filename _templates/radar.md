@@ -4,19 +4,19 @@ kanban-plugin: basic
 
 ---
 
-## ADOPT
+## [[ADOPT]]
 
 
 
-## TRIAL
+## [[TRIAL]]
 
 
 
-## ASSESS
+## [[ASSESS]]
 
 
 
-## HOLD
+## [[HOLD]]
 
 **Complete**
 
