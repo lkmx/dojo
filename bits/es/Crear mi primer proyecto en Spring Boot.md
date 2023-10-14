@@ -1,5 +1,5 @@
 ---
-tech: "[[Spring Boot]]"
+tech: "[[spring-boot]]"
 ---
 ## Presentación
 

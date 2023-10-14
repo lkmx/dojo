@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[Java]]
-- [ ] [[Javascript]]
+- [ ] [[java]]
+- [ ] [[javascript]]
 
 
 ## [[TRIAL]]
@@ -17,8 +17,8 @@ kanban-plugin: basic
 
 ## [[ASSESS]]
 
-- [ ] [[Rust]]
-- [ ] [[Go]]
+- [ ] [[rust]]
+- [ ] [[go]]
 
 
 ## [[HOLD]]

@@ -10,7 +10,7 @@ kanban-plugin: basic
 
 ## [[TRIAL]]
 
-- [ ] [[HUGO]]
+- [ ] [[hugo]]
 
 
 ## [[ASSESS]]

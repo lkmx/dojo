@@ -4,7 +4,9 @@ archive_url:
 archive_version: 
 license: Commercial/Free
 ---
-Sourcetree is a free Git client for Windows and Mac with a simple GUI ideal for users with any level of technical expertise.
+# Sourcetree
+
+Sourcetree is a free Git client for Windows and Mac with a simple GUI ideal for users with any technical expertise.
 
 ---
 ## Tasks
