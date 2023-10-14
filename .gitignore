@@ -1,5 +1,23 @@
-# Ignore the .obsidian directory.
-.obsidian
+# .gitignore for collaborative Obsidian project
+
+# Ignore specific files in .obsidian directory that store user-specific settings.
+
+# User specific Obsidian preferences and configuration
+.obsidian/app.json
+.obsidian/workspace.json
+.obsidian/vault.json
+.obsidian/hotkeys.json
+.obsidian/trash.md
+.obsidian/config
+
+# Controls the theme and colors used, up to the user
+.obsidian/appearance.json
+# Controls showing the backlinks in the document by default, up to the user
+.obsidian/backlink.json
+# Graph configuration 
+.obsidian/graph.json
+# Obsidian themes
+.obsidian/themes
 
 # Trash directory:
 .trash/
