@@ -1,6 +1,3 @@
----
-tech: "[[spring-boot]]"
----
 ## Presentación
 
 Google Slides: [Spring 101](https://docs.google.com/presentation/d/1zbZ4cVn43jmA0FV9Amxnx8Yf0BBmLnuXgz3ofb2Xc9I/edit#slide=id.p1)

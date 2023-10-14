@@ -1,5 +1,4 @@
 ---
-tech: "[[nvm]]"
 platforms:
   - macos
   - linux
