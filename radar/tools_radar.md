@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] [[obsidian]]
 - [ ] [[disk-inventory]]
 - [ ] [[git]]
+- [ ] [[pyenv]]
 
 
 ## [[TRIAL]]
@@ -19,6 +20,7 @@ kanban-plugin: basic
 
 ## [[ASSESS]]
 
+- [ ] [[ohmyzsh]]
 
 
 ## [[HOLD]]
