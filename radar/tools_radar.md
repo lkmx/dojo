@@ -6,11 +6,12 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[nvm]]
-- [ ] [[Obsidian]]
 - [ ] [[Disk Inventory]]
 - [ ] [[Git]]
+- [ ] [[nvm]]
+- [ ] [[Obsidian]]
 - [ ] [[pyenv]]
+- [ ] [[Visual Studio Code]]
 
 
 ## [[TRIAL]]
