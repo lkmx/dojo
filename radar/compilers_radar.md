@@ -1,7 +1,6 @@
 ---
-
+type: "[[compiler]]"
 kanban-plugin: basic
-
 ---
 
 ## [[ADOPT]]
@@ -10,7 +9,7 @@ kanban-plugin: basic
 
 ## [[TRIAL]]
 
-- [ ] [[hugo]]
+- [ ] [[HUGO]]
 
 
 ## [[ASSESS]]

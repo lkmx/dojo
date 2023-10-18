@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[spring-boot]]
+- [ ] [[Spring Boot]]
 
 
 ## [[TRIAL]]
 
-- [ ] [[cloudflare-pages]]
+- [ ] [[Cloudflare Pages]]
 
 
 ## [[ASSESS]]

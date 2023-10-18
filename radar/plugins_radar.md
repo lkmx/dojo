@@ -14,7 +14,7 @@ kanban-plugin: basic
 
 ## [[ASSESS]]
 
-- [ ] [[elementor]]
+- [ ] [[Elementor]]
 
 
 ## [[HOLD]]

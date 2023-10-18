@@ -1,5 +1,5 @@
 ---
-tech: "[[svelte]]"
+tech: "[[Svelte]]"
 ---
 ```svelte
 <script>

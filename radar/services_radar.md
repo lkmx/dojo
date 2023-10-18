@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[cloudflare]]
-- [ ] [[elasticsearch]]
+- [ ] [[Cloudflare]]
+- [ ] [[Elasticsearch]]
 
 
 ## [[TRIAL]]

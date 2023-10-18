@@ -6,19 +6,20 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[java]]
-- [ ] [[javascript]]
+- [ ] [[Java]]
+- [ ] [[Javascript]]
 
 
 ## [[TRIAL]]
 
-- [ ] [[Python]]
+- [ ] [[Svelte]]
+- [ ] [[python]]
 
 
 ## [[ASSESS]]
 
-- [ ] [[rust]]
-- [ ] [[go]]
+- [ ] [[Rust]]
+- [ ] [[Go]]
 
 
 ## [[HOLD]]

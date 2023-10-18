@@ -10,18 +10,18 @@ kanban-plugin: basic
 
 ## [[TRIAL]]
 
-- [ ] [[nextjs]]
+- [ ] [[NextJS]]
 
 
 ## [[ASSESS]]
 
-- [ ] [[strapi]]
+- [ ] [[Strapi]]
 
 
 ## [[HOLD]]
 
 **Complete**
-- [x] [[solr]]
+- [x] [[Solr]]
 
 
 
