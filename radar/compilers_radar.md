@@ -1,5 +1,5 @@
 ---
-type: "[[compiler]]"
+type: "[[compilers]]"
 kanban-plugin: basic
 ---
 

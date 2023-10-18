@@ -1,5 +1,9 @@
 {
   "types": {
-    "platforms": "multitext"
+    "platforms": "multitext",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "classes": "multitext"
   }
 }
