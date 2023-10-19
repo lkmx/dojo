@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## [[TRIAL]]
 
 - [ ] [[Svelte]]
-- [ ] [[python]]
+- [ ] [[Python]]
 
 
 ## [[ASSESS]]
