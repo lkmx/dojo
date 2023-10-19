@@ -2,7 +2,9 @@
   "types": {
     "platforms": "multitext",
     "aliases": "aliases",
+    "tags": "tags",
     "classes": "multitext",
-    "class": "text"
+    "class": "text",
+    "tech": "multitext"
   }
 }
