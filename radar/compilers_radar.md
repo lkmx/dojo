@@ -1,10 +1,14 @@
 ---
+
 type: "[[Compilers]]"
 kanban-plugin: basic
+
 ---
 
 ## [[ADOPT]]
 
+- [ ] [[Gradle]]
+- [ ] [[Maven]]
 
 
 ## [[TRIAL]]

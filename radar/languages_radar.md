@@ -6,25 +6,37 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
+- [ ] [[CSS]]
+- [ ] [[HTML]]
 - [ ] [[Java]]
 - [ ] [[Javascript]]
+- [ ] [[React]]
+- [ ] [[SQL]]
+- [ ] [[Typescript]]
+- [ ] [[JSON]]
+- [ ] [[XML]]
+- [ ] [[yaml]]
+- [ ] [[toml]]
 
 
 ## [[TRIAL]]
 
-- [ ] [[Svelte]]
 - [ ] [[Python]]
+- [ ] [[Svelte]]
 
 
 ## [[ASSESS]]
 
-- [ ] [[Rust]]
 - [ ] [[Go]]
+- [ ] [[GraphQL]]
+- [ ] [[Rust]]
 
 
 ## [[HOLD]]
 
 **Complete**
+- [x] [[VueJS]]
+- [x] [[SASS]]
 
 
 
