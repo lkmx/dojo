@@ -17,6 +17,7 @@ kanban-plugin: basic
 
 ## [[ASSESS]]
 
+- [ ] [[neo4j]]
 
 
 ## [[HOLD]]
