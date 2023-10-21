@@ -6,22 +6,26 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
+- [ ] [[React]]
+- [ ] [[Spring]]
 
 
 ## [[TRIAL]]
 
 - [ ] [[NextJS]]
+- [ ] [[Strapi]]
+- [ ] [[Svelte]]
 
 
 ## [[ASSESS]]
 
-- [ ] [[Strapi]]
 
 
 ## [[HOLD]]
 
 **Complete**
 - [x] [[Solr]]
+- [x] [[VueJS]]
 
 
 

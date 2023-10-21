@@ -10,19 +10,18 @@ kanban-plugin: basic
 - [ ] [[HTML]]
 - [ ] [[Java]]
 - [ ] [[Javascript]]
-- [ ] [[React]]
-- [ ] [[SQL]]
-- [ ] [[Typescript]]
 - [ ] [[JSON]]
+- [ ] [[Markdown]]
+- [ ] [[SQL]]
+- [ ] [[toml]]
+- [ ] [[Typescript]]
 - [ ] [[XML]]
 - [ ] [[yaml]]
-- [ ] [[toml]]
 
 
 ## [[TRIAL]]
 
 - [ ] [[Python]]
-- [ ] [[Svelte]]
 
 
 ## [[ASSESS]]
@@ -35,7 +34,6 @@ kanban-plugin: basic
 ## [[HOLD]]
 
 **Complete**
-- [x] [[VueJS]]
 - [x] [[SASS]]
 
 
