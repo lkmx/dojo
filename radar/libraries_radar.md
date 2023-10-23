@@ -6,26 +6,26 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[Spark]]
+- [ ] [[Tailwind CSS]]
 
 
 ## [[TRIAL]]
 
-- [ ] [[Ant Design]]
 
 
 ## [[ASSESS]]
 
-- [ ] [[Material UI]]
-- [ ] [[Chakra UI]]
-- [ ] [[Blueprint]]
-- [ ] [[Carbon Design System]]
+- [ ] [[Ant Design]]
 
 
 ## [[HOLD]]
 
 **Complete**
 - [x] [[Semantic UI]]
+- [x] [[Material UI]]
+- [x] [[Chakra UI]]
+- [x] [[Blueprint]]
+- [x] [[Carbon Design System]]
 
 
 

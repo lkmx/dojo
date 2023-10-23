@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## [[ADOPT]]
 
 - [ ] [[markdown-notes]]
+- [ ] [[Tailwind CSS IntelliSense]]
 
 
 ## [[TRIAL]]

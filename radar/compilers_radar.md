@@ -9,6 +9,7 @@ kanban-plugin: basic
 
 - [ ] [[Gradle]]
 - [ ] [[Maven]]
+- [ ] [[Vite]]
 
 
 ## [[TRIAL]]

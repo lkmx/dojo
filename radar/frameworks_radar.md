@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## [[ADOPT]]
 
 - [ ] [[React]]
+- [ ] [[Spark]]
 - [ ] [[Spring]]
 
 
