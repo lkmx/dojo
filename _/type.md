@@ -7,7 +7,7 @@ The classes symbolize a logical categorization of technological components based
 ### Design
 
 - **[[Languages]]**: Representations or syntaxes that help structure, model, or dictate processes.
-- **[[Blueprints]]**: Foundational theories, guidelines, or doctrines directing the design or planning of solutions.
+- **[[tech/Blueprints]]**: Foundational theories, guidelines, or doctrines directing the design or planning of solutions.
 - **[[Architectures]]**: Structural outlines or blueprints defining components' composition and interaction, whether technological or procedural.
 - [[Process]]
 
