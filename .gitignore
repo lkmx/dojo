@@ -10,14 +10,22 @@
 .obsidian/trash.md
 .obsidian/config
 
+# Ignores plugin settings
+.obsidian/plugins/*/data.json
+
 # Controls the theme and colors used, up to the user
 .obsidian/appearance.json
+# Controls the theme and colors used, up to the user
+.obsidian/canvas.json
 # Controls showing the backlinks in the document by default, up to the user
 .obsidian/backlink.json
 # Graph configuration 
 .obsidian/graph.json
 # Obsidian themes
 .obsidian/themes
+
+# Frontmatter editor files
+.frontmatter
 
 # Trash directory:
 .trash/
