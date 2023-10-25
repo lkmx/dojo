@@ -5,6 +5,8 @@
     "tags": "tags",
     "classes": "multitext",
     "class": "text",
-    "tech": "multitext"
+    "tech": "multitext",
+    "cssclasses": "multitext",
+    "open_source": "checkbox"
   }
 }

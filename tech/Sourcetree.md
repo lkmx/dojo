@@ -1,4 +1,5 @@
 ---
+open_source: true
 www: https://www.sourcetreeapp.com/
 archive_url: 
 archive_version: 
