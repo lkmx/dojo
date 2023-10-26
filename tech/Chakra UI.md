@@ -1,3 +1,3 @@
 ---
-source_code_url: https://github.com/chakra-ui/chakra-ui
+source_code: https://github.com/chakra-ui/chakra-ui
 ---

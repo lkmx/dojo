@@ -1,5 +1,5 @@
 ---
-source_code_url: https://github.com/nvm-sh/nvm
+source_code: https://github.com/nvm-sh/nvm
 ---
 # nvm
 

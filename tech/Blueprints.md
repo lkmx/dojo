@@ -1,3 +1,3 @@
 ---
-source_code_url: https://github.com/palantir/blueprint
+source_code: https://github.com/palantir/blueprint
 ---
