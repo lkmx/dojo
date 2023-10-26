@@ -1,4 +1,4 @@
-1. [[Clonar el repositorio usando Git]]
+1. [[Clonar un repositorio usando Git]]
 2. Seleccionar del menú superior: "Open > Open Vault..."
 3. En el _modal_, presionar el botón "Open" en la sección "Open folder as vault"
 
