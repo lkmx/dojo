@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] [[Typescript]]
 - [ ] [[XML]]
 - [ ] [[yaml]]
+- [ ] [[Conventional Commits]]
 
 
 ## [[TRIAL]]
