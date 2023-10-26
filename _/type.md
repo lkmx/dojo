@@ -1,15 +1,15 @@
+# Type
+
 The classes symbolize a logical categorization of technological components based on their primary function and phase in an operational cycle. This spectrum stretches from conceptualization and planning (Design) through actualizing and implementing (Development), to delivering and utilizing (Execution). While originally rooted in the software realm, this classification can be aptly applied across various domains, elucidating the primary function of technological components in diverse operational contexts.
 
-
-
-## Operational Phases
+## Categorization
 
 ### Design
 
 - **[[Languages]]**: Representations or syntaxes that help structure, model, or dictate processes.
-- **[[tech/Blueprints]]**: Foundational theories, guidelines, or doctrines directing the design or planning of solutions.
+- **[[Blueprints]]**: Foundational theories, guidelines, or doctrines directing the design or planning of solutions.
 - **[[Architectures]]**: Structural outlines or blueprints defining components' composition and interaction, whether technological or procedural.
-- [[Process]]
+- [[Conventions]]
 
 ### Development
 
