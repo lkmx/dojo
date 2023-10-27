@@ -39,11 +39,11 @@ Once the foundation is set, the development phase begins. The concepts transitio
 In the execution phase, software components are deployed and utilized. This is where they interact, function, and provide their intended value within a larger system or as standalone entities.
 
 - **[[Platforms]]**: Environments or systems in which software components are hosted and run. They provide the necessary infrastructure for the components to operate seamlessly.
-    
+
 - **[[Tools]]**: Standalone utility software components designed for specific tasks. Once executed, they complete their designated function and deliver the intended outcome, streamlining or automating particular processes within the larger system.
-    
+
 - **[[Services]]**: Software entities that deliver predefined functionalities. They operate autonomously, offering services without requiring deep interaction or understanding of their underlying mechanisms.
-    
+
 - **[[Stores]]**: Software repositories or systems that manage, store, and retrieve data or other software resources.
-    
+
 - **[[Extensions]]**: Software add-ons or modifications that amplify or modify the capabilities of an existing component, be it a system, tool, service, or store.
