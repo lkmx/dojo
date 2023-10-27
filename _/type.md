@@ -6,21 +6,20 @@ The classes symbolize a logical categorization of technological components based
 
 ### Design
 
-- **[[Languages]]**: Representations or syntaxes that help structure, model, or dictate processes.
-- **[[Blueprints]]**: Foundational theories, guidelines, or doctrines directing the design or planning of solutions.
-- **[[Architectures]]**: Structural outlines or blueprints defining components' composition and interaction, whether technological or procedural.
-- [[Conventions]]
-
+- [[Languages]]. Syntax structure, model, or dictate logic in the source code.
+- [[Conventions]]. Rules that don't affect the logic of the source code.
+- [[Blueprints]]. Foundational theories, guidelines, or doctrines direct the design of the source code of a component.
+- [[Architectures]]. Foundational theories, guidelines, or doctrines direct how a component is designed to interact with others.
 ### Development
 
-- **[[Frameworks]]**: Structured guidelines or sets of rules that help streamline the creation or formulation of solutions.
-- **[[Compilers]]**: Systems or tools that transform or interpret designs into actionable outputs.
-- **[[Libraries]]**: Collections of resources, be they code or other assets, meant to enhance functionality or efficiency.
+- [[Frameworks]]: Structured guidelines or sets of rules that help streamline the creation or formulation of solutions.
+- [[Compilers]]. Systems or tools that transform or interpret designs into actionable outputs.
+- [[Libraries]]. Collections of resources, be they code or other assets, meant to enhance functionality or efficiency.
 
 ### Execution
 
-- **[[Platforms]]**: Environments or systems that host, facilitate, or support the operationalization of solutions.
-- **[[Tools]]**: Instruments or utilities that assist by automating or streamlining specific tasks or operations, from software applications to physical devices.
-- **[[Services]]**: Autonomous or semi-autonomous entities that deliver specific functionalities or services, often without needing deep interaction or understanding of their internals.
-- **[[Stores]]**: Repositories or systems that manage and retrieve resources or data.
-- **[[Extensions]]**: Add-ons or extensions that enhance or modify the capabilities of an existing system, tool, service, or store.
+- [[Platforms]]. Environments or systems that host, facilitate, or support the operationalization of solutions.
+- [[Tools]]. Instruments or utilities that assist by automating or streamlining specific tasks or operations, from software applications to physical devices.
+- [[Services]]. Autonomous or semi-autonomous entities that deliver specific functionalities or services, often without needing deep interaction or understanding of their internals.
+- [[Stores]]. Repositories or systems that manage and retrieve resources or data.
+- [[Extensions]]. Add-ons or extensions that enhance or modify the capabilities of an existing system, tool, service, or store.
