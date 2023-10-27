@@ -1,8 +1,6 @@
 ---
-
-type: "[[Compilers]]"
+type: "[[Builders]]"
 kanban-plugin: basic
-
 ---
 
 ## [[ADOPT]]
