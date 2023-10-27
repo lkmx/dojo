@@ -27,7 +27,7 @@ kanban-plugin: basic
 ## [[HOLD]]
 
 **Complete**
-- [x] [[Github Desktop]]
+- [x] [[GitHub Desktop]]
 
 
 

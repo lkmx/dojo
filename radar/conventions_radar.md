@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 ## [[TRIAL]]
 
+- [ ] [[AgileFlow]]
 
 
 ## [[ASSESS]]

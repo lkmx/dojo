@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] [[Cloudflare]]
 - [ ] [[Elasticsearch]]
+- [ ] [[GitLab]]
 
 
 ## [[TRIAL]]
