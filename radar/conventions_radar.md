@@ -9,6 +9,7 @@ kanban-plugin: basic
 
 - [ ] [[Conventional Commits]]
 - [ ] [[SemVer]]
+- [ ] [[WYSIWYM]]
 
 
 ## [[TRIAL]]
@@ -22,6 +23,7 @@ kanban-plugin: basic
 ## [[HOLD]]
 
 **Complete**
+- [x] [[WYSIWYG]]
 
 
 
