@@ -30,7 +30,7 @@ Once the foundation is set, the development phase begins. The concepts transitio
 
 - **[[Interpreters]]**: Tools or systems that interpret source or byte code, bringing a software component to life.
 
-### **Execution**: The Implementation Phase
+### **Execution**: The Operation Phase
 
 In the execution phase, software components are deployed and utilized. This is where they interact, function, and provide their intended value within a larger system or as standalone entities.
 
