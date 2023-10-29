@@ -22,6 +22,7 @@ kanban-plugin: basic
 ## [[ASSESS]]
 
 - [ ] [[ohmyzsh]]
+- [ ] [[Husky]]
 
 
 ## [[HOLD]]
