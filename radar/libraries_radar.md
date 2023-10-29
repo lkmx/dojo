@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
+- [ ] [[negotiator]]
 - [ ] [[Tailwind CSS]]
 
 

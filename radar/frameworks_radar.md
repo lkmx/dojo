@@ -13,7 +13,7 @@ kanban-plugin: basic
 
 ## [[TRIAL]]
 
-- [ ] [[NextJS]]
+- [ ] [[Next.js]]
 - [ ] [[Strapi]]
 - [ ] [[Svelte]]
 

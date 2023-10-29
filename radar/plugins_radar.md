@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## [[ADOPT]]
 
 - [ ] [[markdown-notes]]
-- [ ] [[Tailwind CSS IntelliSense]]
+- [ ] [[Tailwind CSS IntelliSense Extension]]
 - [ ] [[Tailwind CSS + Prettier Plug-In]]
 
 
