@@ -6,17 +6,18 @@ kanban-plugin: basic
 
 ## [[ADOPT]]
 
-- [ ] [[negotiator]]
 - [ ] [[Tailwind CSS]]
 
 
 ## [[TRIAL]]
 
+- [ ] [[next-intl]]
 
 
 ## [[ASSESS]]
 
-- [ ] [[Ant Design]]
+- [ ] [[formatjs-intl-localematcher]]
+- [ ] [[negotiator]]
 
 
 ## [[HOLD]]
@@ -27,6 +28,7 @@ kanban-plugin: basic
 - [x] [[Chakra UI]]
 - [x] [[tech/Blueprints]]
 - [x] [[Carbon Design System]]
+- [x] [[Ant Design]]
 
 
 
