@@ -1,3 +1,4 @@
+[More information](https://intuji.com/monorepo-vs-polyrepo-architecture/)
 ## Introduction
 Monorepo architecture, often referred to as a "mono-repository," revolutionizes code management in software development. In this approach, all components and projects within an organization are stored in a single centralized repository. Unlike the Polyrepo model, where each project has its own repository, Monorepo consolidates all code under one roof, simplifying the structure and enhancing collaboration among development teams.
 

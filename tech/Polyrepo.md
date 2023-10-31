@@ -1,3 +1,4 @@
+[More information](https://intuji.com/monorepo-vs-polyrepo-architecture/)
 ## Introduction
 Polyrepo architecture, also known as a "multiple repository" system, represents an alternative approach to code management in software development. Unlike Monorepo, where all code is stored in a single centralized repository, Polyrepo involves organizing different projects or components into separate repositories. This decentralized structure provides flexibility, allowing each project to have its independent versioning and management.
 ## Advantages
