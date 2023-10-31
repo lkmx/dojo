@@ -21,7 +21,6 @@ kanban-plugin: basic
 
 ## [[ASSESS]]
 
-- [ ] [[Get Started with Koa]]
 
 
 ## [[HOLD]]
