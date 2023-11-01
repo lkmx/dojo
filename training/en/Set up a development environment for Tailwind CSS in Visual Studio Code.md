@@ -22,3 +22,5 @@ To make sure there's no other formatter conflicting with the plug-in, enter in `
 	}
 }
 ```
+
+- Reload with CMD+SHIFT+P > "Reload Window"
