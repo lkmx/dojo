@@ -12,6 +12,7 @@ kanban-plugin: basic
 ## [[TRIAL]]
 
 - [ ] [[Cloudflare Pages]]
+- [ ] [[Koa]]
 
 
 ## [[ASSESS]]
