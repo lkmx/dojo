@@ -10,11 +10,13 @@ kanban-plugin: basic
 - [ ] [[Conventional Commits]]
 - [ ] [[SemVer]]
 - [ ] [[WYSIWYM]]
+- [ ] [[Polyrepo]]
 
 
 ## [[TRIAL]]
 
 - [ ] [[AgileFlow]]
+- [ ] [[Monorepo]]
 
 
 ## [[ASSESS]]
