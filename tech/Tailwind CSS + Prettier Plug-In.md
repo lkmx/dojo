@@ -1,5 +1,4 @@
 ---
-open_source: true
 source_code: https://github.com/tailwindlabs/prettier-plugin-tailwindcss
 ---
 

@@ -1,5 +1,4 @@
 ---
-open_source: true
 www: https://docs.fileformat.com/database/sqlite/
 ---
 

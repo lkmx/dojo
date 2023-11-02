@@ -1,5 +1,4 @@
 ---
-open_source: true
 www: https://koajs.com/
 sour: https://github.com/koajs/koa
 ---
