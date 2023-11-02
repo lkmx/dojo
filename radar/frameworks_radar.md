@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] [[Next.js]]
 - [ ] [[Strapi]]
 - [ ] [[Svelte]]
+- [ ] [[Storybook]]
 
 
 ## [[ASSESS]]

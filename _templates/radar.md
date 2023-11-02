@@ -1,6 +1,8 @@
 ---
+
 class: 
 kanban-plugin: basic
+
 ---
 
 ## [[ADOPT]]

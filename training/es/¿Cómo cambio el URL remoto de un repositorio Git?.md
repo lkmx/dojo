@@ -1,4 +1,3 @@
-____
 ## 1. Verificar la URL Remota Actual
 
 Antes de realizar cambios, es útil verificar la URL remota actual. Puedes hacer esto utilizando el siguiente comando:

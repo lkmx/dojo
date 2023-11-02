@@ -21,6 +21,7 @@ kanban-plugin: basic
 
 ## [[ASSESS]]
 
+- [ ] [[Conventional Branches]]
 
 
 ## [[HOLD]]
