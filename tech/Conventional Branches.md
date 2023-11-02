@@ -1,3 +1,9 @@
+
+Conventional commits are a very good way to have a clean git history.
+
+The problem is that with expressive commits, or depending on the author's style, only some of the commits can be documented, and sometimes it doesn't make sense.
+
+
 ✨ **`feat/`**: Para nuevas funcionalidades o mejoras significativas que agregan valor al software.
 
 🐞 **`fix/`**: Para correcciones de errores que eliminan o solucionan problemas en la funcionalidad existente.
