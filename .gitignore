@@ -3,7 +3,7 @@
 # Ignore specific files in .obsidian directory that store user-specific settings.
 
 # User specific Obsidian preferences and configuration
-.obsidian/app.json    app.json is versioned this time to allow to save links config
+.obsidian/app.json
 .obsidian/workspace.json
 .obsidian/vault.json
 .obsidian/hotkeys.json
