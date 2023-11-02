@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] [[MySQL]]
 - [ ] [[PostgreSQL]]
 - [ ] [[redis]]
+- [ ] [[SQLite]]
 
 
 ## [[TRIAL]]

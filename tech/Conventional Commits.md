@@ -20,17 +20,18 @@ See the full specifications on the [Conventional Commits](https://www.convention
 
 The type of change that is being committed using one of the following keys:
 
-- **feat**: A new feature
-- **fix**: A bug fix
-- **perf**: A code change that improves performance
-- **test**: Adding missing tests or correcting existing tests
-- **refactor**: A code change that neither fixes a bug nor adds a feature
+- **feat**: A new feature.
+- **fix**: A bug fix.
+- **perf**: A code change that improves performance.
+- **test**: Adding missing tests or correcting existing tests.
+- **refactor**: A code change that neither fixes a bug nor adds a feature.
 
 - **build**: Changes that affect the build system or external dependencies.
 - **ci**: Changes to our CI configuration files and scripts.
 
 - **style**: Formatting changes that do not affect the meaning of the code.
-- **docs**: Documentation only changes
+- **docs**: Documentation only changes.
+- **chore**: Other changes that don't modify src or test files.
 
 
 ## Examples

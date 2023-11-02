@@ -12,6 +12,8 @@ kanban-plugin: basic
 - [ ] [[Obsidian]]
 - [ ] [[pyenv]]
 - [ ] [[Visual Studio Code]]
+- [ ] [[GitLab Runner]]
+- [ ] [[GitLab CI]]
 
 
 ## [[TRIAL]]
