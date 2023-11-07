@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiKoa",
       "SiPython",
       "SiReact",
       "SiRust",
-      "SiSemver",
-      "SiApachesolr"
+      "SiSemver"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,6 @@
   "tech/SemVer.md": "SiSemver",
   "tech/Rust.md": "SiRust",
   "tech/React.md": "SiReact",
-  "tech/Python.md": "SiPython"
+  "tech/Python.md": "SiPython",
+  "tech/Koa.md": "SiKoa"
 }
