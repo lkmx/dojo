@@ -4,4 +4,5 @@
 
 ---
 
-- [ ] Traducir diálogos en inglés por las correspondencias exactas en español. #CR
+- [ ] Traducir diálogos en inglés por las correspondencias exactas en español. #EQ 
+- [ ] Renombrar git por Git en el título. #EQ 

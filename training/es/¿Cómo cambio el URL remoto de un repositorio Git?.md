@@ -38,3 +38,10 @@ git remote -v
 ``` 
 
 nuevamente. Asegúrate de que la URL remota ahora apunte a la nueva dirección del repositorio.
+
+---
+
+- [ ] Eliminar líneas entre párrafos. #EQ
+- [ ] Eliminar números entre los párrafos #EQ 
+- [ ] Agregar una línea vacía antes de los símbolos de código \`\`\`. #EQ
+- [ ] Renombrar a "Cambiar el URL remoto de un repositorio Git". #EQ

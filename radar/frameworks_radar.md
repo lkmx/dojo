@@ -7,14 +7,14 @@ kanban-plugin: basic
 ## [[ADOPT]]
 
 - [ ] [[React]]
+- [ ] [[Next.js]]
 - [ ] [[Spark]]
+- [ ] [[Strapi]]
 - [ ] [[Spring]]
 
 
 ## [[TRIAL]]
 
-- [ ] [[Next.js]]
-- [ ] [[Strapi]]
 - [ ] [[Svelte]]
 - [ ] [[Storybook]]
 

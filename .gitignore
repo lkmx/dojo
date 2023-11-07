@@ -13,6 +13,12 @@
 # Ignores plugin settings
 .obsidian/plugins/*/data.json
 
+# Include the icon information
+!.obsidian/plugins/obsidian-icon-folder/data.json
+
+# Ignores Minimal Settings plugin as it is exclusively for appearance settings
+.obsidian/plugins/obsidian-minimal-settings/
+
 # Controls the theme and colors used, up to the user
 .obsidian/appearance.json
 # Controls the theme and colors used, up to the user

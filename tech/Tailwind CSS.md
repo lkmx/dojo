@@ -7,7 +7,7 @@ Tailwind CSS is intuitive and integrates seamlessly with various build tools and
 
 ## Why Tailwind CSS?
 
-Adam Wathan, the creator of Tailwind CSS, describes its study about CSS coupling at ["CSS Utility Classes And Separation Of Concerns."](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) 
+Adam Wathan, the creator of Tailwind CSS, describes its study about CSS coupling in ["CSS Utility Classes And Separation Of Concerns."](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) 
 
 
 

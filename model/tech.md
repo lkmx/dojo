@@ -4,4 +4,4 @@
 
 ## Type
 
-A technology can have multiple [[classification]] entities as attributes. They represent a logical categorization of technological components based on their primary function and phase in an operational cycle. This encompasses all stages from conceptualizing and planning (Design) to actualizing and implementing (Development), and finally, delivering and utilizing (Execution) the technology.
+- [[type]]. A technology can have multiple classifications as attributes. They represent a logical categorization of technological components based on their primary function and phase in an operational cycle. This encompasses all stages from conceptualizing and planning (Design) to actualizing and implementing (Development), and finally, delivering and utilizing (Execution) the technology.
