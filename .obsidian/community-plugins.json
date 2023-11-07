@@ -2,5 +2,8 @@
   "obsidian-kanban",
   "obsidian-git",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-icon-folder",
+  "obsidian-minimal-settings"
 ]

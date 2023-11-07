@@ -26,7 +26,7 @@ kanban-plugin: basic
 - [x] [[Semantic UI]]
 - [x] [[Material UI]]
 - [x] [[Chakra UI]]
-- [x] [[tech/Blueprints]]
+- [x] [[Blueprint]]
 - [x] [[Carbon Design System]]
 - [x] [[Ant Design]]
 
