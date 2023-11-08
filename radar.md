@@ -11,7 +11,10 @@ kanban-plugin: basic
 - [ ] [[CSS]]
 - [ ] [[Disk Inventory]]
 - [ ] [[Elasticsearch]]
+- [ ] [[Git]]
 - [ ] [[GitLab]]
+- [ ] [[GitLab CI]]
+- [ ] [[GitLab Runner]]
 - [ ] [[Gradle]]
 - [ ] [[HTML]]
 - [ ] [[Jamstack]]
@@ -23,35 +26,32 @@ kanban-plugin: basic
 - [ ] [[Maven]]
 - [ ] [[MySQL]]
 - [ ] [[Next.js]]
+- [ ] [[nvm]]
+- [ ] [[Obsidian]]
 - [ ] [[Polyrepo]]
 - [ ] [[Polyrepo]]
 - [ ] [[PostgreSQL]]
+- [ ] [[pyenv]]
 - [ ] [[React]]
 - [ ] [[redis]]
 - [ ] [[REST]]
 - [ ] [[SemVer]]
 - [ ] [[Spark]]
-- [ ] [[Spring Boot]]
 - [ ] [[Spring]]
+- [ ] [[Spring Boot]]
 - [ ] [[SQL]]
 - [ ] [[SQLite]]
 - [ ] [[Strapi]]
+- [ ] [[Tailwind CSS]]
 - [ ] [[Tailwind CSS + Prettier Plug-In]]
 - [ ] [[Tailwind CSS IntelliSense Extension]]
-- [ ] [[Tailwind CSS]]
 - [ ] [[TOML]]
 - [ ] [[Typescript]]
+- [ ] [[Visual Studio Code]]
 - [ ] [[Vite]]
 - [ ] [[WYSIWYM]]
 - [ ] [[XML]]
 - [ ] [[yaml]]
-- [ ] [[Git]]
-- [ ] [[nvm]]
-- [ ] [[Obsidian]]
-- [ ] [[pyenv]]
-- [ ] [[Visual Studio Code]]
-- [ ] [[GitLab Runner]]
-- [ ] [[GitLab CI]]
 
 
 ## TRIAL
@@ -63,9 +63,9 @@ kanban-plugin: basic
 - [ ] [[Koa]]
 - [ ] [[Monorepo]]
 - [ ] [[Python]]
+- [ ] [[Sourcetree]]
 - [ ] [[Storybook]]
 - [ ] [[Svelte]]
-- [ ] [[Sourcetree]]
 
 
 ## ASSESS
@@ -74,36 +74,41 @@ kanban-plugin: basic
 - [ ] [[Elementor]]
 - [ ] [[Go]]
 - [ ] [[GraphQL]]
+- [ ] [[Husky]]
 - [ ] [[LogSeq]]
 - [ ] [[negotiator]]
-- [ ] [[Rust]]
 - [ ] [[neo4j]]
 - [ ] [[ohmyzsh]]
-- [ ] [[Husky]]
+- [ ] [[Rust]]
+- [ ] [[tech/Tech]]
 
 
 ## HOLD
 
-- [ ] [[Ant Design]]
-- [ ] [[Blueprint]]
-- [ ] [[Carbon Design System]]
-- [ ] [[Chakra UI]]
+**Complete**
+- [ ] [[Github Desktop]]
 - [ ] [[GraphQL]]
 - [ ] [[Gridsome]]
-- [ ] [[Material UI]]
+- [ ] [[MS SQL Server]]
 - [ ] [[SASS]]
-- [ ] [[Semantic UI]]
 - [ ] [[Solr]]
 - [ ] [[VueJS]]
 - [ ] [[WYSIWYG]]
-- [ ] [[MS SQL Server]]
-- [ ] [[Github Desktop]]
 
 
+***
 
+## Archive
+
+- [ ] [[Blueprint]]
+- [ ] [[Semantic UI]]
+- [ ] [[Material UI]]
+- [ ] [[Carbon Design System]]
+- [ ] [[Ant Design]]
+- [ ] [[Chakra UI]]
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-note-template":"templates/tech.md","new-note-folder":"tech","show-add-list":false,"show-view-as-markdown":false,"show-archive-all":false,"metadata-keys":[{"metadataKey":"type","label":"","shouldHideLabel":true,"containsMarkdown":true}]}
+{"kanban-plugin":"basic","new-note-template":"templates/tech.md","new-note-folder":"tech","show-add-list":false,"show-view-as-markdown":false,"show-archive-all":false,"metadata-keys":[]}
 ```
 %%

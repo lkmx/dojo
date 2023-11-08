@@ -66,7 +66,7 @@ stages:
 automatic_tagging:
   stage: tag
   only:
-    - /^r[0-9]+\.[0-9]+$/
+    - /^r/[0-9]+\.[0-9]+$/
   script:
     - BRANCH_VERSION=$(echo $CI_COMMIT_REF_NAME | sed 's/r//')
     - TAGS=$(git tag --list "v${BRANCH_VERSION}.*")

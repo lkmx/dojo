@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiPython",
-      "SiReact",
-      "SiRust",
-      "SiSemver",
-      "SiApachesolr"
+      "SiRedis",
+      "SiSass",
+      "SiSpring",
+      "SiToml",
+      "SiChakraui"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,11 @@
   "tech/Rust.md": "SiRust",
   "tech/React.md": "SiReact",
   "tech/Python.md": "SiPython",
-  "tech/TOML.md": "SiToml"
+  "tech/Koa.md": "SiKoa",
+  "tech/Ant Design.md": "SiAntdesign",
+  "tech/Chakra UI.md": "SiChakraui",
+  "tech/TOML.md": "SiToml",
+  "tech/Spring.md": "SiSpring",
+  "tech/SASS.md": "SiSass",
+  "tech/redis.md": "SiRedis"
 }
