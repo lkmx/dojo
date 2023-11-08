@@ -100,7 +100,7 @@ kanban-plugin: basic
 
 ## Archive
 
-- [ ] [[Blueprint]]
+- [ ] [[tech/Blueprint]]
 - [ ] [[Semantic UI]]
 - [ ] [[Material UI]]
 - [ ] [[Carbon Design System]]

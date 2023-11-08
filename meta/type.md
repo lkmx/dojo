@@ -14,15 +14,15 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 - **[[Architectures]]**: These theories and guidelines determine how a software component should interact with other components.
 
-- **[[Blueprints]]**: Fundamental theories, guidelines, or doctrines that steer the design of a software component's source code.
+- **[[types/Blueprint]]**: Fundamental theories, guidelines, or doctrines that steer the design of a software component's source code.
 
-- **[[Stories]]**: Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences.
+- **[[Story]]**: Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences.
 
 ### **Development**: The Creation Phase
 
 Once the foundation is set, the development phase begins. The concepts transition from theory to practice, transforming ideas into functional software or tech components.
 
-- **[[Processes]]**: Structured interactions between stakeholders that facilitate the construction of a software component.
+- **[[Process]]**: Structured interactions between stakeholders that facilitate the construction of a software component.
 
 - **[[Frameworks]]**: These are structured guidelines or rule sets that aid in efficiently creating solutions.
 
@@ -30,7 +30,7 @@ Once the foundation is set, the development phase begins. The concepts transitio
 
 - **[[Builders]]**: Systems or tools that convert source code into a functional software component.
 
-- **[[Interpreters]]**: Tools or systems that interpret source or byte code, bringing a software component to life.
+- **[[Interpreter]]**: Tools or systems that interpret source or byte code, bringing a software component to life.
 
 ### **Execution**: The Operation Phase
 

@@ -1,5 +1,5 @@
 ---
-type: "[[Librarie]]"
+type: "[[Library]]"
 source_code: https://github.com/jshttp/negotiator
 ---
 A content negotiator is a component in an HTTP-based system that helps determine the best representation of a resource to be returned in a response based on the client's requested preferences.
