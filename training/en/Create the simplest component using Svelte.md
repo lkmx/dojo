@@ -1,6 +1,7 @@
 ---
 tech: "[[Svelte]]"
 ---
+**Create a file named "SimpleComponent.svelte" and add the following code:**
 ```svelte
 <script>
 	let name = 'carnal';
@@ -8,6 +9,8 @@ tech: "[[Svelte]]"
 
 <h1>Hello {name}!</h1>
 ```
+
+**To see the result, run the Svelte component in your development environment.**
 
 ---
 

@@ -1,3 +1,9 @@
+---
+type: "[[Convention]]"
+www: https://earthly.dev/blog/monorepo-vs-polyrepo/
+source_code:
+---
+
 ## Introduction
 
 Polyrepo architecture, a multiple repository system, represents an alternative approach to code management in software development. Unlike Monorepo, where all code is stored in a single centralized repository, Polyrepo organizes different projects or components into separate repositories. This decentralized structure provides flexibility, allowing each project independent versioning and management.

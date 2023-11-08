@@ -1,4 +1,6 @@
 ---
+type: "[[Framework]]"
+www: https://tailwindcss.com/
 source_code: https://github.com/tailwindlabs/tailwindcss
 ---
 Tailwind CSS is a utility-first CSS framework for rapidly building modern websites. Unlike traditional CSS frameworks that offer predefined components, Tailwind allows developers to compose custom designs without leaving their HTML, facilitating a more efficient and streamlined development process. With its minimalistic approach, Tailwind ensures that designers and developers fully control their site's aesthetics, making achieving a unique and responsive design easier.

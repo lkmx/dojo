@@ -1,3 +1,9 @@
+---
+type: "[[Convention]]"
+www: https://agileflow.pro/
+source_code:
+---
+
 In the ever-evolving software development landscape, there's a growing need for clear and efficient workflows. **AgileFlow** emerges as a solution, seamlessly integrating with modern source control systems and enhancing them with the clarity of semantic versioning. It offers a tailored approach to make software versioning and release processes more straightforward and consistent.
 
 At the heart of AgileFlow is its approach to versioning. By harnessing intuitive branch naming conventions, teams can easily discern major and minor version increments. Patch versions, which often become cumbersome to manage manually, are efficiently automated. This alignment with the standards of [Semantic Versioning](https://semver.org/) not only ensures consistency but also simplifies release tracking.

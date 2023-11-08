@@ -1,3 +1,8 @@
+---
+type: "[[Convention]]"
+www: https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4
+source_code:
+---
 
 Conventional commits are a very good way to have a clean git history.
 
