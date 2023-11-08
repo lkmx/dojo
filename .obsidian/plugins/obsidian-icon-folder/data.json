@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPostgresql",
       "SiRedis",
       "SiSass",
       "SiSpring",
-      "SiToml",
-      "SiChakraui"
+      "SiToml"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,6 @@
   "tech/TOML.md": "SiToml",
   "tech/Spring.md": "SiSpring",
   "tech/SASS.md": "SiSass",
-  "tech/redis.md": "SiRedis"
+  "tech/redis.md": "SiRedis",
+  "tech/PostgreSQL.md": "SiPostgresql"
 }
