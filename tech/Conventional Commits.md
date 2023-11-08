@@ -1,5 +1,7 @@
 ---
-source_code: https://www.conventionalcommits.org/en/v1.0.0/#specification
+type: "[[Convention]]"
+www: https://www.conventionalcommits.org/en/v1.0.0/#specification
+source_code: https://github.com/conventional-commits/conventionalcommits.org
 ---
 The Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history, which makes it easier to write automated tools on top of it. This convention dovetails with [[SemVer]], describing the features, fixes, and breaking changes in commit messages.
 

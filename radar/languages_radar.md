@@ -13,7 +13,7 @@ kanban-plugin: basic
 - [ ] [[JSON]]
 - [ ] [[Markdown]]
 - [ ] [[SQL]]
-- [ ] [[toml]]
+- [ ] [[TOML]]
 - [ ] [[Typescript]]
 - [ ] [[XML]]
 - [ ] [[yaml]]

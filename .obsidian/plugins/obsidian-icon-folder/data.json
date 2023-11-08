@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiKoa",
       "SiPython",
       "SiReact",
       "SiRust",
-      "SiSemver"
+      "SiSemver",
+      "SiApachesolr"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,7 +58,6 @@
   "tech/Vite.md": "SiVite",
   "tech/Visual Studio Code.md": "SiVisualstudiocode",
   "tech/Typescript.md": "SiTypescript",
-  "tech/toml.md": "SiToml",
   "tech/Tailwind CSS.md": "SiTailwindcss",
   "tech/Tailwind CSS + Prettier Plug-In.md": "SiVisualstudiocode",
   "tech/Tailwind CSS IntelliSense Extension.md": "SiVisualstudiocode",
@@ -74,5 +73,5 @@
   "tech/Rust.md": "SiRust",
   "tech/React.md": "SiReact",
   "tech/Python.md": "SiPython",
-  "tech/Koa.md": "SiKoa"
+  "tech/TOML.md": "SiToml"
 }

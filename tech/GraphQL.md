@@ -1,7 +1,7 @@
 ---
 type: "[[Language]]"
-www: 
-source_code:
+www: https://graphql.org/
+source_code: https://github.com/graphql
 ---
 ---
 

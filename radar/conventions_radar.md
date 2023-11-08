@@ -8,8 +8,8 @@ kanban-plugin: basic
 ## [[ADOPT]]
 
 - [ ] [[Conventional Commits]]
-- [ ] [[SemVer]]
 - [ ] [[WYSIWYM]]
+- [ ] [[SemVer]]
 - [ ] [[Polyrepo]]
 
 

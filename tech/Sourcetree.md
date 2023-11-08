@@ -1,7 +1,6 @@
 ---
+type: "[[Tool]]"
 www: https://www.sourcetreeapp.com/
-archive_url: 
-archive_version: 
 license: Commercial/Free
 ---
 Sourcetree is a free and intuitive graphical user interface (GUI) for managing Git repositories and streamlining the version control processes for novices and experts.
