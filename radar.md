@@ -4,6 +4,48 @@ kanban-plugin: basic
 
 ---
 
+## HOLD
+
+**Complete**
+- [ ] [[Github Desktop]]
+- [ ] [[GraphQL]]
+- [ ] [[Gridsome]]
+- [ ] [[MS SQL Server]]
+- [ ] [[SASS]]
+- [ ] [[Solr]]
+- [ ] [[VueJS]]
+- [ ] [[WYSIWYG]]
+
+
+## ASSESS
+
+- [ ] [[Conventional Branches]]
+- [ ] [[Elementor]]
+- [ ] [[Go]]
+- [ ] [[GraphQL]]
+- [ ] [[Husky]]
+- [ ] [[LogSeq]]
+- [ ] [[negotiator]]
+- [ ] [[neo4j]]
+- [ ] [[ohmyzsh]]
+- [ ] [[Rust]]
+- [ ] [[tech/Tech]]
+
+
+## TRIAL
+
+- [ ] [[AgileFlow]]
+- [ ] [[Cloudflare Pages]]
+- [ ] [[gRPC]]
+- [ ] [[HUGO]]
+- [ ] [[Koa]]
+- [ ] [[Monorepo]]
+- [ ] [[Python]]
+- [ ] [[Sourcetree]]
+- [ ] [[Storybook]]
+- [ ] [[Svelte]]
+
+
 ## ADOPT
 
 - [ ] [[Cloudflare]]
@@ -52,48 +94,6 @@ kanban-plugin: basic
 - [ ] [[WYSIWYM]]
 - [ ] [[XML]]
 - [ ] [[yaml]]
-
-
-## TRIAL
-
-- [ ] [[AgileFlow]]
-- [ ] [[Cloudflare Pages]]
-- [ ] [[gRPC]]
-- [ ] [[HUGO]]
-- [ ] [[Koa]]
-- [ ] [[Monorepo]]
-- [ ] [[Python]]
-- [ ] [[Sourcetree]]
-- [ ] [[Storybook]]
-- [ ] [[Svelte]]
-
-
-## ASSESS
-
-- [ ] [[Conventional Branches]]
-- [ ] [[Elementor]]
-- [ ] [[Go]]
-- [ ] [[GraphQL]]
-- [ ] [[Husky]]
-- [ ] [[LogSeq]]
-- [ ] [[negotiator]]
-- [ ] [[neo4j]]
-- [ ] [[ohmyzsh]]
-- [ ] [[Rust]]
-- [ ] [[tech/Tech]]
-
-
-## HOLD
-
-**Complete**
-- [ ] [[Github Desktop]]
-- [ ] [[GraphQL]]
-- [ ] [[Gridsome]]
-- [ ] [[MS SQL Server]]
-- [ ] [[SASS]]
-- [ ] [[Solr]]
-- [ ] [[VueJS]]
-- [ ] [[WYSIWYG]]
 
 
 ***
