@@ -1,5 +1,5 @@
 
-![[DOJO.svg]]
+![DOJO](DOJO.svg)
 
 En Dojo, la comprensión tecnológica se aborda a través de un modelo intuitivo que comprende tres elementos: el tipo, el anillo y una colección de entrenamientos.
 
