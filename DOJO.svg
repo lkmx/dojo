@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="60px" viewBox="0 0 180 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_bw copy</title>
+    <g id="logo_bw-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DOJO-Copy" fill="#000000">
+            <circle id="O" cx="150" cy="30" r="30"></circle>
+            <path d="M0.508339227,0 C16.7961337,0 30,13.4314575 30,30 C30,46.5685425 16.7961337,60 0.508339227,60 C0.338553893,60 0.169103663,59.9985405 0,59.9956332 L0,0.00436678746 C0.169103663,0.00145948262 0.338553893,0 0.508339227,0 Z" id="Path"></path>
+            <path d="M90,0 L120,0 L120,30.453471 C120,46.8389484 106.510959,59.7425904 90.131453,59.9990247 L90,60 L90,0 Z" id="Path"></path>
+            <circle id="O" cx="60" cy="30" r="30"></circle>
+        </g>
+    </g>
+</svg>

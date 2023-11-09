@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] [[Gridsome]]
 - [ ] [[MS SQL Server]]
 - [ ] [[SASS]]
+- [ ] [[Polyrepo]]
 - [ ] [[Solr]]
 - [ ] [[VueJS]]
 - [ ] [[WYSIWYG]]
@@ -22,14 +23,13 @@ kanban-plugin: basic
 - [ ] [[Conventional Branches]]
 - [ ] [[Elementor]]
 - [ ] [[Go]]
+- [ ] [[Rust]]
 - [ ] [[GraphQL]]
 - [ ] [[Husky]]
 - [ ] [[LogSeq]]
 - [ ] [[negotiator]]
 - [ ] [[neo4j]]
 - [ ] [[ohmyzsh]]
-- [ ] [[Rust]]
-- [ ] [[tech/Tech]]
 
 
 ## TRIAL
@@ -43,6 +43,7 @@ kanban-plugin: basic
 - [ ] [[Python]]
 - [ ] [[Sourcetree]]
 - [ ] [[Storybook]]
+- [ ] [[SQLite]]
 - [ ] [[Svelte]]
 
 
@@ -71,7 +72,6 @@ kanban-plugin: basic
 - [ ] [[nvm]]
 - [ ] [[Obsidian]]
 - [ ] [[Polyrepo]]
-- [ ] [[Polyrepo]]
 - [ ] [[PostgreSQL]]
 - [ ] [[pyenv]]
 - [ ] [[React]]
@@ -82,7 +82,6 @@ kanban-plugin: basic
 - [ ] [[Spring]]
 - [ ] [[Spring Boot]]
 - [ ] [[SQL]]
-- [ ] [[SQLite]]
 - [ ] [[Strapi]]
 - [ ] [[Tailwind CSS]]
 - [ ] [[Tailwind CSS + Prettier Plug-In]]
