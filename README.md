@@ -1,6 +1,8 @@
 
 ![DOJO](DOJO.svg)
 
+Dojo es la base de conocimiento de tecnología de LKMX.
+
 En Dojo, la comprensión tecnológica se aborda a través de un modelo intuitivo que comprende tres elementos: el tipo, el anillo y una colección de entrenamientos.
 
 El **tipo** asigna a cada tecnología una función específica dentro de un ciclo de vida operativo bien definido, que se despliega a través de las etapas de diseño, desarrollo y operación. Esta clasificación facilita la tarea de identificar y situar cada tecnología en el contexto de una colección amplia, utilizando su función como guía para navegar en un paisaje tecnológico diverso y en constante evolución.
