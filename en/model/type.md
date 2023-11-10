@@ -4,7 +4,7 @@ Our operational lifecycle is broadly segmented into Design, Development, and Exe
 
 ## Lifecycle
 
-### **Design**: The Conception Phase
+### **Design**
 
 In the design phase, the focus is on conceptualizing and planning a solution. Here, the foundation is laid for what will eventually become tangible software or technology.
 
@@ -18,7 +18,7 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 - **[[Story]]**: Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences.
 
-### **Development**: The Creation Phase
+### **Development**
 
 Once the foundation is set, the development phase begins. The concepts transition from theory to practice, transforming ideas into functional software or tech components.
 
@@ -32,7 +32,7 @@ Once the foundation is set, the development phase begins. The concepts transitio
 
 - **[[Interpreter]]**: Tools or systems that interpret source or byte code, bringing a software component to life.
 
-### **Execution**: The Operation Phase
+### **Execution**
 
 In the execution phase, software components are deployed and utilized. This is where they interact, function, and provide their intended value within a larger system or as standalone entities.
 
