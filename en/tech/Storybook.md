@@ -7,4 +7,4 @@ source_code: https://github.com/storybookjs/storybook
 
 ---
 
-- [ ] Add training "Add Storybook to a React project." 
+- [ ] Write training "Add Storybook to a React project." 
