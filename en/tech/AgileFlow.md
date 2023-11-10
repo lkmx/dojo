@@ -1,6 +1,7 @@
 ---
+ring: "[[TRIAL]]"
 type: "[[Convention]]"
-www: https://agileflow.pro/
+www: 
 source_code:
 ---
 In the ever-evolving software development landscape, there's a growing need for clear and efficient workflows. **AgileFlow** emerges as a solution, seamlessly integrating with modern source control systems and enhancing them with the clarity of semantic versioning. It offers a tailored approach to make software versioning and release processes more straightforward and consistent.
@@ -9,13 +10,13 @@ At the heart of AgileFlow is its approach to versioning. By harnessing intuitive
 
 Beyond versioning, AgileFlow aims to streamline the software development lifecycle. The `main` branch serves as a continuously updated representation of the software’s latest stable version, offering a clear picture to stakeholders. On the other hand, developers benefit from lucid distinctions between feature and bug-fixing branches. With AgileFlow, the emphasis is on fostering clarity and efficiency, supporting teams from inception to deployment.
 
-### Core Concepts
+## Core Concepts
 
 1. **Branch-based Versioning:** AgileFlow uses branch names to drive major and minor version numbers. Automated CI/CD tools manage patch version increments.
 2. **Utility Main Branch:** The `main` branch is a dynamic representation of the latest stable state of the software, instantly showcasing the most recent validated version to stakeholders.
 3. **Clear Workflow:** With intuitive naming conventions like "feature" for deltas and stories and "fix" for bug patches, combined with CI/CD integrations, AgileFlow ensures consistent versioning and streamlined release procedures.
 
-### Versioning
+## Versioning
 
 In line with Semantic Versioning, AgileFlow classifies versions into major, minor, and patch increments, each signaling a distinct type of change:
 
@@ -23,14 +24,14 @@ In line with Semantic Versioning, AgileFlow classifies versions into major, mino
 - **Minor Versions (`0.Y.0`)**: Indicate iterative enhancements or new features.
 - **Patch Versions (`0.0.Z`)**: Automatically incremented upon the merge of fixes into a release branch.
 
-### Branching
+## Branching
 
 - **`main` Branch**: Reflects the latest stable release.
 - **Release Branches (`rX.Y`)**: Each major and minor version gets its dedicated release branch, such as `r1.0` or `r2.3`. These branches are preferably protected, i.e., code pushes can only be done through merge requests/pull requests.
 - **Feature Branches (`feature/xyz`)**: Branches where new deltas or stories are developed. These can branch off from any required base version and merge into the corresponding release branch (`rX.Y`).
 - **Fix Branches (`fix/abc`)**: Dedicated to addressing patches or bugs, they merge into the corresponding respective release branches.
 
-### Implementation
+## Implementation
 
 1. **Set Up CI/CD Scripts** 
    - Integrate the AgileFlow-specific CI/CD scripts with your development environment to facilitate automated versioning.
@@ -52,34 +53,8 @@ In line with Semantic Versioning, AgileFlow classifies versions into major, mino
 
 ## Training
 
-```dataviewjs
-
-const currentFilePath = dv.current().file.path;
-
-const pages = dv.pages('"training/en"')
-  .where(p => {
-    // If tech is undefined or null, return false
-    if (!p.tech) return false;
-
-    // Check if tech is an object with a path that matches currentFilePath
-    if (typeof p.tech === 'object' && !Array.isArray(p.tech)) {
-      return p.tech.path === currentFilePath;
-    }
-
-    // If tech is an array of objects, compare the path of each object
-    if (Array.isArray(p.tech)) {
-      return p.tech.some(t => t.path === currentFilePath);
-    }
-
-    // In any other case, return false
-    return false;
-  });
-
-if (pages.length > 0) {
-  dv.list(pages.map(p => p.file.link));
-} else {
-  dv.paragraph("No training was found for this technology.");
-}
-
+```dataview
+LIST 
+FROM "en/training"
+WHERE contains(tech, this.file.link)
 ```
-

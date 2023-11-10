@@ -1,4 +1,4 @@
-As we navigate the expansive technology landscape, it becomes essential to categorize and comprehend each component based on its primary function and stage within the operational lifecycle. This "type" helps us distinguish and position various technologies, allowing us to make more informed decisions about their adoption and relevance within our ecosystem.
+The technology type helps us distinguish and position various technologies, allowing us to make more informed decisions about their adoption and relevance within our ecosystem.
 
 Our operational lifecycle is broadly segmented into Design, Development, and Execution. While the type originated in the software domain, its versatility provides clarity across various technological contexts.
 
@@ -14,7 +14,7 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 - **[[Architecture]]**: These theories and guidelines determine how a software component should interact with other components.
 
-- **[[types/Blueprint|Blueprint]]**: Fundamental theories, guidelines, or doctrines that steer the design of a software component's source code.
+- **[[en/types/Blueprint|Blueprint]]**: Fundamental theories, guidelines, or doctrines that steer the design of a software component's source code.
 
 - **[[Story]]**: Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences.
 
