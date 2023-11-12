@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://www.sourcetreeapp.com/
 license: Commercial/Free
 ---

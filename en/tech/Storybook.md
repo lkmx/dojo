@@ -1,5 +1,5 @@
 ---
-type: "[[Framework]]"
+type: "[[framework]]"
 www: https://storybook.js.org/
 source_code: https://github.com/storybookjs/storybook
 ---

@@ -1,5 +1,5 @@
 ---
-type: "[[Builder]]"
+type: "[[compiler]]"
 www: https://gridsome.org/
 source_code: https://github.com/gridsome/gridsome
 ---

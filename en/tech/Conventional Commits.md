@@ -1,5 +1,5 @@
 ---
-type: "[[Convention]]"
+type: "[[convention]]"
 www: https://www.conventionalcommits.org/en/v1.0.0/#specification
 source_code: https://github.com/conventional-commits/conventionalcommits.org
 ---

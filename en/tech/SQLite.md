@@ -1,5 +1,5 @@
 ---
-type: "[[Store]]"
+type: "[[store]]"
 www: https://www.sqlite.org/index.html
 source_code: https://github.com/sqlite/sqlite
 ---

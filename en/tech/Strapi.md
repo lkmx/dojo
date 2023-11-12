@@ -1,5 +1,5 @@
 ---
-type: "[[Framework]]"
+type: "[[framework]]"
 www: https://strapi.io/
 source_code: https://github.com/strapi/strapi
 ---

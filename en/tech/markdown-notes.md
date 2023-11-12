@@ -1,5 +1,5 @@
 ---
-type: "[[Plugin]]"
+type: "[[plugin]]"
 www: https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes
 source_code: https://github.com/microsoft/vscode-extension-samples/blob/main/README.md
 ---

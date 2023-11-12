@@ -1,7 +1,7 @@
 ---
-type: "[[Convention]]"
+type: "[[convention]]"
 www: https://earthly.dev/blog/monorepo-vs-polyrepo/
-source_code:
+source_code: 
 ---
 
 ## Introduction

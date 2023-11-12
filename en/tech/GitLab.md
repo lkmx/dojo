@@ -1,4 +1,4 @@
 ---
-type: "[[Service]]"
+type: "[[service]]"
 www: https://about.gitlab.com/
 ---

@@ -1,4 +1,4 @@
 ---
-type: "[[Convention]]"
-www:
+type: "[[convention]]"
+www: 
 ---

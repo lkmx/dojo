@@ -1,5 +1,5 @@
 ---
-type: "[[Service]]"
+type: "[[service]]"
 www: https://www.cloudflare.com/es-es/
 source_code: https://github.com/cloudflare/cloudflare-docs
 ---

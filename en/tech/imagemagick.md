@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://imagemagick.org/index.php
 source_code: https://github.com/imagemagick/imagemagick
 platforms:

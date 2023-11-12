@@ -1,4 +1,4 @@
 ---
-type: "[[Language]]"
-www:
+type: "[[language]]"
+www: 
 ---

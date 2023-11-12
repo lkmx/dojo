@@ -1,5 +1,5 @@
 ---
-type: "[[Store]]"
+type: "[[store]]"
 www: https://neo4j.com/
 source_code: https://github.com/neo4j
 ---

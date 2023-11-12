@@ -1,5 +1,5 @@
 ---
-type: "[[Language]]"
+type: "[[language]]"
 www: https://www.json.org/json-en.html
-source_code:
+source_code: 
 ---

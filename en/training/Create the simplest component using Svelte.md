@@ -1,11 +1,15 @@
 ---
-tech: "[[Svelte]]"
+tech:
+  - "[[Svelte]]"
 ---
 Create a file named "SimpleComponent.svelte" and add the following code:
 
 ```svelte
 <script>
+	const algo = 'hola';
 	let name = 'carnal';
+	function algo() {
+	}
 </script>
 
 <h1>Hello {name}!</h1>

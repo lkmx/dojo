@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://ohmyz.sh/
 source_code: https://github.com/ohmyzsh/ohmyzsh/
 ---

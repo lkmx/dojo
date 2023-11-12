@@ -1,5 +1,0 @@
-
-## By Owner
-
-```tasks
-```

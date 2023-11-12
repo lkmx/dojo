@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://typicode.github.io/husky/
 source_code: https://github.com/typicode/husky
 ---

@@ -1,5 +1,5 @@
 ---
-type: "[[Platform]]"
+type: "[[platform]]"
 www: https://koajs.com/
 sour: https://github.com/koajs/koa
 ---

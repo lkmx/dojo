@@ -1,6 +1,7 @@
 ---
-ring: "[[TRIAL]]"
-type: "[[Convention]]"
+tags:
+  - trial
+  - convention
 www: 
 source_code:
 ---
@@ -50,11 +51,3 @@ In line with Semantic Versioning, AgileFlow classifies versions into major, mino
 5. **Tag & Refresh `main`** 
    - After successful validation, the release branch content is merged into the `main`.
    - The CI/CD setup tags `main` with the latest version, maintaining a clear record of software evolution.
-
-## Training
-
-```dataview
-LIST 
-FROM "en/training"
-WHERE contains(tech, this.file.link)
-```

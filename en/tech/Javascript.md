@@ -1,5 +1,5 @@
 ---
-type: "[[Language]]"
+type: "[[language]]"
 www: https://www.javascript.com/
-source_code:
+source_code: 
 ---

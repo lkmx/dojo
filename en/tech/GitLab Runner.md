@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://docs.gitlab.com/runner/
 source_code: https://gitlab.com/gitlab-org/gitlab-runner
 ---

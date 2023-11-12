@@ -1,9 +1,14 @@
-Dojo is the technology knowledge base of LKMX.
+---
+title: Welcome
+---
+Dojo is the technology knowledge base of LKMX. Designed to organize and interpret our technological landscape, it is a central hub for learning, using, and progressing technology.
 
-In Dojo, technological understanding is addressed through an intuitive model that comprises three elements: type, ring, and training.
+At its core, Dojo adopts a simplified model that identifies two critical attributes for each technology: its [[type|Type]] and [[ring|Ring]].
 
-The [[Type]] assigns each technology a specific function within a well-defined operational lifecycle, which unfolds through the design, development, and operation stages. This classification makes it easier to identify and place each technology in the context of a broad collection, using its function as a guide to navigating a diverse and constantly evolving technological landscape.
+The [[ring|Ring]], inspired by the Technology Radar, denotes the maturity levels of various technologies alongside our organizational readiness to embrace and integrate them. This aspect simplifies our decision-making process, guiding us on whether to adopt, trial, evaluate, or hold off on implementing specific technologies.
 
-The [[Ring]] represents the maturity of the technology and our organizational capacity to assimilate it. Inspired by the principles of the Tech Radar, this element distinguishes the degree of technological readiness and appropriation, significantly simplifying analysis and improving strategic decision-making. It allows us to determine the opportune moment and the ideal way to integrate technological innovations into our workflows and projects.
+The [[type|Type]] categorizes technologies based on their functional role within our operational lifecycle, including design, development, and operation. This classification aids in contextualizing each technology within our broader technological environment, streamlining how we navigate and understand our tech landscape.
 
-Training focuses on active learning and solving specific technological challenges. We prioritize learning through practice, strengthening an analytical and creative approach to problem-solving. This applied learning allows us to stay up-to-date and competitive in the face of the industry's rapid evolution.
+In addition to these structural elements, Dojo emphasizes active, hands-on learning. We focus on real-world applications and problem-solving in technology, encouraging a culture of continuous learning and adaptation. This approach ensures that our team remains skilled and knowledgeable, ready to tackle the challenges of an ever-evolving industry.
+
+[[es|Español]]

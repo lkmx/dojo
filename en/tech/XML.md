@@ -1,5 +1,5 @@
 ---
-type: "[[Language]]"
+type: "[[language]]"
 www: https://www.w3.org/XML/
-source_code:
+source_code: 
 ---

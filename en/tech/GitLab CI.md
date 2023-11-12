@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://docs.gitlab.com/ee/ci/
 source_code: https://gitlab.com/gitlab-org/gitlab-docs
 ---

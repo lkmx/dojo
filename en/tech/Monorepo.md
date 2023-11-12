@@ -1,5 +1,5 @@
 ---
-type: "[[Convention]]"
+type: "[[convention]]"
 www: https://earthly.dev/blog/monorepo-vs-polyrepo/
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 source_code: https://github.com/pyenv/pyenv
 ---
 

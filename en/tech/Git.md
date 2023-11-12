@@ -1,5 +1,5 @@
 ---
-type: "[[Tool]]"
+type: "[[tool]]"
 www: https://git-scm.com/
 source_code: https://github.com/git/git
 ---
