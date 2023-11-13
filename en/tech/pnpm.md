@@ -1,6 +1,7 @@
 ---
-ring: "[[trial]]"
-type: "[[tool]]"
+tags:
+  - tool
+  - trial
 www: https://pnpm.io/
 source_code: https://github.com/pnpm/pnpm
 ---

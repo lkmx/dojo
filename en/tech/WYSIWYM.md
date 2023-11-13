@@ -1,5 +1,7 @@
 ---
-type: "[[convention]]"
+tags:
+  - convention
+  - adopt
 www: https://www.wysiwygwebbuilder.com/
 source_code: https://github.com/froala
 ---

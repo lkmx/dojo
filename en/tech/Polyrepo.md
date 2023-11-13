@@ -1,7 +1,9 @@
 ---
-type: "[[convention]]"
+tags:
+  - convention
+  - adopt
 www: https://earthly.dev/blog/monorepo-vs-polyrepo/
-source_code: 
+source_code:
 ---
 
 ## Introduction

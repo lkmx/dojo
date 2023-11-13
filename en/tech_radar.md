@@ -7,14 +7,23 @@ kanban-plugin: basic
 ## HOLD
 
 **Complete**
+- [x] [[Ant Design]]
+- [x] [[Blueprint]]
+- [x] [[Carbon Design System]]
+- [x] [[Chakra UI]]
+- [x] [[Elementor]]
 - [ ] [[Github Desktop]]
 - [ ] [[Gridsome]]
+- [x] [[Material UI]]
 - [ ] [[MS SQL Server]]
-- [ ] [[SASS]]
 - [ ] [[Polyrepo]]
+- [ ] [[SASS]]
 - [ ] [[Solr]]
 - [ ] [[VueJS]]
 - [ ] [[WYSIWYG]]
+- [x] [[RSA keys]]
+- [x] [[Semantic UI]]
+- [x] [[Wordpress]]
 
 
 ## ASSESS
@@ -22,32 +31,59 @@ kanban-plugin: basic
 - [ ] [[Conventional Branches]]
 - [ ] [[Elementor]]
 - [ ] [[Go]]
-- [ ] [[Rust]]
 - [ ] [[GraphQL]]
 - [ ] [[Husky]]
 - [ ] [[LogSeq]]
 - [ ] [[negotiator]]
 - [ ] [[neo4j]]
 - [ ] [[ohmyzsh]]
+- [ ] [[Rust]]
 
 
 ## TRIAL
 
-- [ ] [[GraphQL]]
+- [ ] [[AgileFlow]]
 - [ ] [[Cloudflare Pages]]
+- [ ] [[formatjs-intl-localematcher]]
+- [ ] [[Github Desktop]]
+- [ ] [[GraphQL]]
 - [ ] [[gRPC]]
 - [ ] [[HUGO]]
 - [ ] [[Koa]]
 - [ ] [[Monorepo]]
+- [ ] [[Monorepo]]
+- [ ] [[pnpm]]
 - [ ] [[Python]]
 - [ ] [[Sourcetree]]
-- [ ] [[Storybook]]
 - [ ] [[SQLite]]
+- [ ] [[Storybook]]
 - [ ] [[Svelte]]
 
 
 ## ADOPT
 
+- [ ] [[CDN]]
+- [ ] [[Cloudflare]]
+- [ ] [[Cloudflare Pages]]
+- [ ] [[Conventional Commits]]
+- [ ] [[CSS]]
+- [ ] [[Disk Inventory X]]
+- [ ] [[ED25519 keys]]
+- [ ] [[Elasticsearch]]
+- [ ] [[Elliptic-curve Cryptography]]
+- [ ] [[React]]
+- [ ] [[Git]]
+- [ ] [[GitLab]]
+- [ ] [[GitLab CI]]
+- [ ] [[GitLab Runner]]
+- [ ] [[Gradle]]
+- [ ] [[HTML]]
+- [ ] [[imagemagick]]
+- [ ] [[Jamstack]]
+- [ ] [[Java]]
+- [ ] [[Javascript]]
+- [ ] [[JSON]]
+- [ ] [[MacOS]]
 - [ ] [[Markdown]]
 - [ ] [[markdown-notes]]
 - [ ] [[Maven]]
@@ -58,7 +94,6 @@ kanban-plugin: basic
 - [ ] [[Polyrepo]]
 - [ ] [[PostgreSQL]]
 - [ ] [[pyenv]]
-- [ ] [[en/tech/React]]
 - [ ] [[redis]]
 - [ ] [[REST]]
 - [ ] [[SemVer]]
@@ -77,6 +112,8 @@ kanban-plugin: basic
 - [ ] [[WYSIWYM]]
 - [ ] [[XML]]
 - [ ] [[yaml]]
+- [ ] [[SQLite]]
+- [ ] [[ssh-keygen]]
 
 
 ***

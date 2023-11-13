@@ -1,5 +1,7 @@
 ---
-type: "[[framework]]"
+tags:
+  - framework
+  - trial
 www: https://storybook.js.org/
 source_code: https://github.com/storybookjs/storybook
 ---

@@ -1,4 +1,6 @@
 ---
-type: "[[convention]]"
-www: 
+tags:
+  - convention
+  - hold
+www:
 ---

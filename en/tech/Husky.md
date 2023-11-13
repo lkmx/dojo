@@ -1,5 +1,7 @@
 ---
-type: "[[tool]]"
+tags:
+  - tool
+  - assess
 www: https://typicode.github.io/husky/
 source_code: https://github.com/typicode/husky
 ---

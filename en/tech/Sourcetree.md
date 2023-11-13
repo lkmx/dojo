@@ -1,5 +1,7 @@
 ---
-type: "[[tool]]"
+tags:
+  - tool
+  - trial
 www: https://www.sourcetreeapp.com/
 license: Commercial/Free
 ---

@@ -1,7 +1,9 @@
 ---
-source_code: 
+tags:
+  - tool
+  - assess
 www: https://logseq.com/
-type: "[[tool]]"
+source_code:
 ---
 ---
 

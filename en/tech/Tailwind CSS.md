@@ -1,5 +1,7 @@
 ---
-type: "[[framework]]"
+tags:
+  - framework
+  - adopt
 www: https://tailwindcss.com/
 source_code: https://github.com/tailwindlabs/tailwindcss
 ---

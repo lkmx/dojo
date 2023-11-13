@@ -1,5 +1,7 @@
 ---
-type: "[[store]]"
+tags:
+  - store
+  - adopt
 www: https://www.sqlite.org/index.html
 source_code: https://github.com/sqlite/sqlite
 ---

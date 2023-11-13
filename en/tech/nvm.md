@@ -1,5 +1,7 @@
 ---
-type: "[[tool]]"
+tags:
+  - tool
+  - adopt
 source_code: https://github.com/nvm-sh/nvm
 ---
 # nvm

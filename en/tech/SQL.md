@@ -1,4 +1,6 @@
 ---
-type: "[[language]]"
-www: 
+tags:
+  - language
+  - adopt
+www:
 ---

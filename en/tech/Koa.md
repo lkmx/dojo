@@ -1,5 +1,7 @@
 ---
-type: "[[platform]]"
+tags:
+  - platform
+  - trial
 www: https://koajs.com/
 sour: https://github.com/koajs/koa
 ---
