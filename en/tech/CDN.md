@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - architecture
+  - adopt
 www: 
 source_code:
 ---

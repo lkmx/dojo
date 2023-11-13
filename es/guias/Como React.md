@@ -1,0 +1,4 @@
+---
+tech:
+  - "[[en/tech/React]]"
+---
