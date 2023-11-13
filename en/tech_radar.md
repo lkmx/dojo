@@ -58,7 +58,7 @@ kanban-plugin: basic
 - [ ] [[Polyrepo]]
 - [ ] [[PostgreSQL]]
 - [ ] [[pyenv]]
-- [ ] [[React]]
+- [ ] [[en/tech/React]]
 - [ ] [[redis]]
 - [ ] [[REST]]
 - [ ] [[SemVer]]
