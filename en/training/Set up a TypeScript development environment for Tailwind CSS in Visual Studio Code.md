@@ -2,7 +2,7 @@
 tech:
   - "[[Tailwind CSS]]"
   - "[[Visual Studio Code]]"
-  - "[[TypeScripts]]"
+  - "[[TypeScript]]"
 ---
 - [[Install Tailwind CSS IntelliSense Extension]].
 - [[Install Prettier Extension]]

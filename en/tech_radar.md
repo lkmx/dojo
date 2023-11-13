@@ -71,7 +71,7 @@ kanban-plugin: basic
 - [ ] [[Tailwind CSS + Prettier Plug-In]]
 - [ ] [[Tailwind CSS IntelliSense Extension]]
 - [ ] [[TOML]]
-- [ ] [[TypeScripts]]
+- [ ] [[TypeScript]]
 - [ ] [[Visual Studio Code]]
 - [ ] [[Vite]]
 - [ ] [[WYSIWYM]]
