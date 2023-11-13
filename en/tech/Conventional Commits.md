@@ -1,5 +1,7 @@
 ---
-type: "[[convention]]"
+tags:
+  - convention
+  - adopt
 www: https://www.conventionalcommits.org/en/v1.0.0/#specification
 source_code: https://github.com/conventional-commits/conventionalcommits.org
 ---
@@ -9,15 +11,15 @@ The Conventional Commits specification is a lightweight convention on top of com
 
 See the full specifications on the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification) website.
 
-```
+```text
 <type>[scope]: <description>
 
-[optional body]
+[body]
 
-[optional footer(s)]
+[footer]
 ```
 
-## Type
+### Type
 
 The type of change that is being committed using one of the following keys:
 
@@ -34,12 +36,26 @@ The type of change that is being committed using one of the following keys:
 - **docs**: Documentation only changes.
 - **chore**: Other changes that don't modify src or test files.
 
+### Scope
 
+TBD.
+
+### Description
+
+TBD.
+
+### Body
+
+TBD.
+
+### Footer
+
+TBD.
 ## Examples
 
 Commit message with the description and breaking change footer
 
-```
+```text
 feat: allow provided config object to extend other configs
 
 BREAKING CHANGE: `extends` key in config file is now used for extending other config files
@@ -47,19 +63,19 @@ BREAKING CHANGE: `extends` key in config file is now used for extending other co
 
 Commit message with `!` to draw attention to breaking change
 
-```
+```text
 feat!: send an email to the customer when a product is shipped
 ```
 
 Commit message with scope and `!` to draw attention to breaking change
 
-```
+```text
 feat(api)!: send an email to the customer when a product is shipped
 ```
 
 Commit message with both `!` and BREAKING CHANGE footer
 
-```
+```text
 chore!: drop support for Node 6
 
 BREAKING CHANGE: use JavaScript features not available in Node 6.
@@ -67,19 +83,19 @@ BREAKING CHANGE: use JavaScript features not available in Node 6.
 
 Commit a message with no body
 
-```
+```text
 docs: correct spelling of CHANGELOG
 ```
 
 Commit message with scope
 
-```
+```text
 feat(lang): add Polish language
 ```
 
 Commit message with multi-paragraph body and multiple footers
 
-```
+```text
 fix: prevent racing of requests
 
 Introduce a request ID and a reference to the latest request. Dismiss

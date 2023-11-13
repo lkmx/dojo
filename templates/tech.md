@@ -1,7 +1,6 @@
 ---
-ring:
-type:
-www:
+tags: 
+www: 
 source_code:
 ---
 _Description._

@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 **Complete**
 - [ ] [[Github Desktop]]
-- [ ] [[GraphQL]]
 - [ ] [[Gridsome]]
 - [ ] [[MS SQL Server]]
 - [ ] [[SASS]]
@@ -34,7 +33,7 @@ kanban-plugin: basic
 
 ## TRIAL
 
-- [ ] [[AgileFlow]]
+- [ ] [[GraphQL]]
 - [ ] [[Cloudflare Pages]]
 - [ ] [[gRPC]]
 - [ ] [[HUGO]]
@@ -49,21 +48,6 @@ kanban-plugin: basic
 
 ## ADOPT
 
-- [ ] [[Cloudflare]]
-- [ ] [[Conventional Commits]]
-- [ ] [[CSS]]
-- [ ] [[Disk Inventory]]
-- [ ] [[Elasticsearch]]
-- [ ] [[Git]]
-- [ ] [[GitLab]]
-- [ ] [[GitLab CI]]
-- [ ] [[GitLab Runner]]
-- [ ] [[Gradle]]
-- [ ] [[HTML]]
-- [ ] [[Jamstack]]
-- [ ] [[Java]]
-- [ ] [[Javascript]]
-- [ ] [[JSON]]
 - [ ] [[Markdown]]
 - [ ] [[markdown-notes]]
 - [ ] [[Maven]]
@@ -87,7 +71,7 @@ kanban-plugin: basic
 - [ ] [[Tailwind CSS + Prettier Plug-In]]
 - [ ] [[Tailwind CSS IntelliSense Extension]]
 - [ ] [[TOML]]
-- [ ] [[Typescript]]
+- [ ] [[TypeScripts]]
 - [ ] [[Visual Studio Code]]
 - [ ] [[Vite]]
 - [ ] [[WYSIWYM]]

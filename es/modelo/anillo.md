@@ -7,9 +7,9 @@ El anillo actúa como una herramienta de clasificación que orienta a las organi
 
 Cada anillo representa un nivel de compromiso y confianza en la tecnología:
 
-- [[adoptar|adoptar]]. Alta confianza y recomendación para un uso extenso.
-- [[probar|probar]]: Reconocimiento de su potencial, pero necesita más investigación.
-- [[evaluar|evaluar]]. Se sugiere la experimentación activa para valorar su utilidad.
-- [[esperar|esperar]]: Uso limitado, generalmente debido a la obsolescencia o la existencia de mejores opciones.
+- [[adoptar|ADOPTAR]]. Alta confianza y recomendación para un uso extenso.
+- [[probar|PROBAR]]. Reconocimiento de su potencial, pero necesita más investigación.
+- [[evaluar|EVALUAR]]. Se sugiere la experimentación activa para valorar su utilidad.
+- [[esperar|ESPERAR]]. Uso limitado, generalmente debido a la obsolescencia o la existencia de mejores opciones.
 
 Adicionalmente, la categoría [[ninguno|ninguno]] se asigna a tecnologías que están en etapas tempranas de exploración y aún no han sido clasificadas en un Anillo específico.

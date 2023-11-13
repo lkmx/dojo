@@ -77,8 +77,8 @@
   "en/tech/Tailwind CSS + Prettier Plug-In.md": "SiVisualstudiocode",
   "en/tech/Tailwind CSS IntelliSense Extension.md": "SiVisualstudiocode",
   "en/tech/TOML.md": "SiToml",
-  "en/tech/Typescript.md": "SiTypescript",
   "en/tech/Visual Studio Code.md": "SiVisualstudiocode",
   "en/tech/Vite.md": "SiVite",
-  "en/tech/VueJS.md": "SiVuedotjs"
+  "en/tech/VueJS.md": "SiVuedotjs",
+  "en/tech/TypeScripts.md": "SiTypescript"
 }
