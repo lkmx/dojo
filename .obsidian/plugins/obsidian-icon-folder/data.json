@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiReadme",
       "SiPostgresql",
       "SiRedis",
       "SiSass",
-      "SiSpring",
-      "SiToml"
+      "SiSpring"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,6 @@
   "en/tech/Visual Studio Code.md": "SiVisualstudiocode",
   "en/tech/Vite.md": "SiVite",
   "en/tech/VueJS.md": "SiVuedotjs",
-  "en/tech/TypeScript.md": "SiTypescript"
+  "en/tech/TypeScript.md": "SiTypescript",
+  "en/tech/README file.md": "SiReadme"
 }
