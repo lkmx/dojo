@@ -1,12 +1,11 @@
 ---
 title: Type
 ---
-
 The technology type helps us distinguish and position various technologies, allowing us to make more informed decisions about their adoption and relevance within our ecosystem.
 
 Our operational lifecycle is broadly segmented into Design, Development, and Execution. While the type originated in the software domain, its versatility provides clarity across various technological contexts.
 
-### Design
+## Design
 
 In the design phase, the focus is on conceptualizing and planning a solution. Here, the foundation is laid for what will eventually become tangible software or technology.
 
@@ -18,9 +17,7 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 - [[convention|Conventions]]. Non-functional rules and standards that guide but do not alter the logic of the source code.
 
-- [[story|Stories]]. Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences.
-
-### Development
+## Development
 
 Once the foundation is set, the development phase begins. The concepts transition from theory to practice, transforming ideas into functional software or tech components.
 
@@ -32,9 +29,7 @@ Once the foundation is set, the development phase begins. The concepts transitio
 
 - [[interpreter|Interpreters]]. Tools or systems that interpret source or byte code, bringing a software component to life.
 
-- [[process|Processes]]. Structured interactions between stakeholders that facilitate the construction of a software component.
-
-### Operation
+## Operation
 
 In the execution phase, software components are deployed and utilized. This is where they interact, function, and provide their intended value within a more extensive system or as standalone entities.
 
@@ -47,3 +42,11 @@ In the execution phase, software components are deployed and utilized. This is w
 - [[store|Stores]]. Software repositories or systems that manage and retrieve data or other software resources.
 
 - [[plugin|Plug-ins]]. Software add-ons or modifications that amplify or modify the capabilities of an existing component, be it a platform, tool, service, or store.
+
+## Interactions
+
+- [[story|Stories]]. Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences. USER <-> SOFTWARE.
+
+- [[process|Processes]]. Structured interactions between stakeholders that facilitate the construction of a software component. USERS <-> SOFTWARE.
+
+- [[soft-skills|Soft skills]]. STAKEHOLDERS <-> STAKEHOLDERS.
