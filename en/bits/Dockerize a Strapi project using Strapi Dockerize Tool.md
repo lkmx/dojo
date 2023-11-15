@@ -1,5 +1,6 @@
 ---
 tech:
+  - "[[Strapi Dockerize Tool]]"
   - "[[Strapi]]"
   - "[[Docker]]"
   - "[[Docker Compose]]"
