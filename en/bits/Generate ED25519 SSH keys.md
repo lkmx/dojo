@@ -1,7 +1,7 @@
 ---
 tech:
   - "[[ssh-keygen]]"
-  - "[[Ed25519 keys]]"
+  - "[[Ed25519 keyss]]"
 ---
 ```shell
 ssh-keygen -t ed25519 -C "<COMMENT>"
