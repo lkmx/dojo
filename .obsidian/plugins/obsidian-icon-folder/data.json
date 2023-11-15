@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiReadme",
-      "SiPostgresql",
-      "SiRedis",
-      "SiSass",
-      "SiSpring"
+      "SiVercel",
+      "SiJamstack",
+      "SiJson",
+      "SiLogseq",
+      "SiMysql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -81,5 +81,12 @@
   "en/tech/Vite.md": "SiVite",
   "en/tech/VueJS.md": "SiVuedotjs",
   "en/tech/TypeScript.md": "SiTypescript",
-  "en/tech/README file.md": "SiReadme"
+  "en/tech/README file.md": "SiReadme",
+  "en/tech/Strapi Dockerize Tool.md": "SiStrapi",
+  "en/tech/MS SQL Server.md": "SiMicrosoftsqlserver",
+  "en/tech/MySQL.md": "SiMysql",
+  "en/tech/LogSeq.md": "SiLogseq",
+  "en/tech/JSON.md": "SiJson",
+  "en/tech/Jamstack.md": "SiJamstack",
+  "en/tech/Vercel.md": "SiVercel"
 }
