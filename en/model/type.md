@@ -13,7 +13,7 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 - [[architecture|Architectures]]. These theories and guidelines determine how a software component should interact with other components.
 
-- [[blueprint|Blueprints]]. Fundamental theories, guidelines, or doctrines that steer the design of a software component's source code.
+- [[pattern|Patterns]]. Fundamental theories, guidelines, or doctrines that steer the design of a software component's source code.
 
 - [[convention|Conventions]]. Non-functional rules and standards that guide but do not alter the logic of the source code.
 
@@ -43,10 +43,10 @@ In the execution phase, software components are deployed and utilized. This is w
 
 - [[plugin|Plug-ins]]. Software add-ons or modifications that amplify or modify the capabilities of an existing component, be it a platform, tool, service, or store.
 
-## Interactions
+## Interaction
 
-- [[story|Stories]]. Narrative constructs that encapsulate user interactions with software components by capturing desired outcomes and user experiences. USER <-> SOFTWARE.
+- [[story|Stories]]. Concise narratives that outline user experiences and interactions with software, focusing on achieving specific user outcomes.
 
-- [[process|Processes]]. Structured interactions between stakeholders that facilitate the construction of a software component. USERS <-> SOFTWARE.
+- [[process|Processes]]. Structured sequences of actions facilitate stakeholders' creation, deployment, and use of software.
 
-- [[soft-skills|Soft skills]]. STAKEHOLDERS <-> STAKEHOLDERS.
+- [[soft-skills|Soft Skills]]. Essential interpersonal abilities that enhance communication, collaboration, and problem-solving in technology environments.
