@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiFfmpeg",
       "SiVercel",
       "SiJamstack",
       "SiJson",
-      "SiLogseq",
-      "SiMysql"
+      "SiLogseq"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,6 @@
   "en/tech/LogSeq.md": "SiLogseq",
   "en/tech/JSON.md": "SiJson",
   "en/tech/Jamstack.md": "SiJamstack",
-  "en/tech/Vercel.md": "SiVercel"
+  "en/tech/Vercel.md": "SiVercel",
+  "en/tech/ffmpeg.md": "SiFfmpeg"
 }

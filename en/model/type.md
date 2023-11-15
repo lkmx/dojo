@@ -3,7 +3,7 @@ title: Type
 ---
 The technology type helps us distinguish and position various technologies, allowing us to make more informed decisions about their adoption and relevance within our ecosystem.
 
-Our operational lifecycle is broadly segmented into Design, Development, and Execution. While the type originated in the software domain, its versatility provides clarity across various technological contexts.
+Our operational lifecycle is broadly segmented into Design, Interaction, Development, and Operation. While the type originated in the software domain, its versatility provides clarity across various technological contexts.
 
 ## Design
 
