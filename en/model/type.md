@@ -17,6 +17,14 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 - [[convention|Conventions]]. Non-functional rules and standards that guide but do not alter the logic of the source code.
 
+## Interaction
+
+- [[story|Stories]]. Concise narratives that outline user experiences and interactions with software, focusing on achieving specific user outcomes.
+
+- [[process|Processes]]. Structured sequences of actions facilitate stakeholders' creation, deployment, and use of software.
+
+- [[soft-skills|Soft Skills]]. Essential interpersonal abilities that enhance communication, collaboration, and problem-solving in technology environments.
+
 ## Development
 
 Once the foundation is set, the development phase begins. The concepts transition from theory to practice, transforming ideas into functional software or tech components.
@@ -42,11 +50,3 @@ In the execution phase, software components are deployed and utilized. This is w
 - [[store|Stores]]. Software repositories or systems that manage and retrieve data or other software resources.
 
 - [[plugin|Plug-ins]]. Software add-ons or modifications that amplify or modify the capabilities of an existing component, be it a platform, tool, service, or store.
-
-## Interaction
-
-- [[story|Stories]]. Concise narratives that outline user experiences and interactions with software, focusing on achieving specific user outcomes.
-
-- [[process|Processes]]. Structured sequences of actions facilitate stakeholders' creation, deployment, and use of software.
-
-- [[soft-skills|Soft Skills]]. Essential interpersonal abilities that enhance communication, collaboration, and problem-solving in technology environments.
