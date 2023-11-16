@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiEslint",
       "SiHomebrew",
       "SiFfmpeg",
       "SiVercel",
-      "SiJamstack",
-      "SiJson"
+      "SiJamstack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,5 +90,6 @@
   "en/tech/Jamstack.md": "SiJamstack",
   "en/tech/Vercel.md": "SiVercel",
   "en/tech/ffmpeg.md": "SiFfmpeg",
-  "en/tech/Homebrew.md": "SiHomebrew"
+  "en/tech/Homebrew.md": "SiHomebrew",
+  "en/tech/ESLint.md": "SiEslint"
 }
