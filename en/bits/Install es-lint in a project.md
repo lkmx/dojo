@@ -1,4 +1,4 @@
 ---
 tech:
-  - "[[eslint]]"
+  - "[[ESLints]]"
 ---
