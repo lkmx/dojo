@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[ESLints]]"
+  - "[[ESLint]]"
   - "[[npm]]"
 ---
 Install and configure ESLint using this command:
