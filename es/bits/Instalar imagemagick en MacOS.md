@@ -2,9 +2,8 @@
 tech:
   - "[[imagemagick]]"
   - "[[MacOS]]"
+  - "[[Homebrew]]"
 ---
 ```shell
 brew install imagemagick
 ```
-
-- [ ] Agregar una referencia a Homebrew en tech.
