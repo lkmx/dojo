@@ -1,8 +1,8 @@
 ---
 tech:
   - "[[imagemagick]]"
-  - "[[MacOS]]"
-  - "[[Homebrew]]"
+  - "[[macos]]"
+  - "[[homebrew]]"
 ---
 ```shell
 brew install imagemagick

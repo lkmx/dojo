@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[React]]"
+  - "[[react]]"
 ---
 - [[¿Qué es el DOM?]]
 - [[Actualizando el DOM]]

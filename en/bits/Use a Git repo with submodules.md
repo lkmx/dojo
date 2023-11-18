@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[Git]]"
+  - "[[git]]"
 ---
 Initialize the repo submodules.
 

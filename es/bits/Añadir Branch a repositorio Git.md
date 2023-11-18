@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[Git]]"
+  - "[[git]]"
 ---
 
 Para crear un nuevo branch, utiliza el siguiente el comando:  

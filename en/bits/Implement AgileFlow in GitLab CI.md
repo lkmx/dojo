@@ -1,7 +1,7 @@
 ---
 tech:
-  - "[[AgileFlow]]"
-  - "[[GitLab CI]]"
+  - "[[agileflow]]"
+  - "[[gitlab-ci]]"
 ---
 Add the following stages to `.gitlab-ci.yml` 
 

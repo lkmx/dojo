@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[Next.js]]"
+  - "[[nextjs]]"
   - "[[negotiator]]"
 ---
 Create `./i18n-config.ts`

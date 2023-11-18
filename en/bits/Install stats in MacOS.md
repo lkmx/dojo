@@ -1,8 +1,8 @@
 ---
 tech:
   - "[[stats]]"
-  - "[[MacOS]]"
-  - "[[Homebrew]]"
+  - "[[macos]]"
+  - "[[homebrew]]"
 ---
 ```bash
 brew install stats

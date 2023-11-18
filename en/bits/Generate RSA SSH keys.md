@@ -1,7 +1,7 @@
 ---
 tech:
   - "[[ssh-keygen]]"
-  - "[[RSA keys]]"
+  - "[[rsa-keys]]"
 ---
 ```shell
 ssh-keygen -t rsa -C "<COMMENT>"

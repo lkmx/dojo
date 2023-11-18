@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[Svelte]]"
+  - "[[svelte]]"
 ---
 Create a file named "SimpleComponent.svelte" and add the following code:
 

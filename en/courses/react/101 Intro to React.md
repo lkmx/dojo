@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[React]]"
+  - "[[react]]"
 ---
 - [[what-is-dom|What is DOM?]]
 - Updating the DOM

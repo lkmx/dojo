@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[TypeScript]]"
+  - "[[typescript]]"
   - "[[npm]]"
 ---
 ## Initialize Your Project

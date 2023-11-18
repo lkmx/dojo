@@ -1,4 +1,4 @@
 ---
 tech:
-  - "[[Tailwind CSS IntelliSense Extension]]"
+  - "[[tailwind-css-intellisense-extension]]"
 ---

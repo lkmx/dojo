@@ -1,6 +1,6 @@
 ---
 tech:
-  - "[[Git]]"
+  - "[[git]]"
 ---
 Navega al directorio donde deseas clonar el repositorio:
 

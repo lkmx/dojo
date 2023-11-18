@@ -1,9 +1,9 @@
 ---
 tech:
-  - "[[Strapi Dockerize Tool]]"
-  - "[[Strapi]]"
-  - "[[Docker]]"
-  - "[[Docker Compose]]"
+  - "[[strapi-dockerize-tool]]"
+  - "[[strapi]]"
+  - "[[docker]]"
+  - "[[docker-compose]]"
 ---
 ```shell
 cd <STRAPI_PROJECT_DIR>
