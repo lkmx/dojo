@@ -15,4 +15,4 @@ The [[ring]], inspired by the Technology Radar, denotes the maturity levels of v
 
 In addition to these structural elements, Dojo emphasizes active, hands-on learning. We focus on real-world applications and problem-solving in technology, encouraging a culture of continuous learning and adaptation. This approach ensures that our team remains skilled and knowledgeable, ready to tackle the challenges of an ever-evolving industry.
 
-[[es|Español]]
+[[es/index|Español]]
