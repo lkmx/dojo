@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiDocker",
       "SiGithub",
       "SiBlender",
       "SiEslint",
-      "SiHomebrew",
-      "SiFfmpeg"
+      "SiHomebrew"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -93,5 +93,6 @@
   "tech/vercel.md": "SiVercel",
   "tech/vscode.md": "SiVisualstudiocode",
   "tech/vite.md": "SiVite",
-  "tech/vuejs.md": "SiVuedotjs"
+  "tech/vuejs.md": "SiVuedotjs",
+  "tech/baseimage-docker.md": "SiDocker"
 }
