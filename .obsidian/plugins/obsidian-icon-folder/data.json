@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPhoenixframework",
       "SiElixir",
       "SiDocker",
       "SiGithub",
-      "SiBlender",
-      "SiEslint"
+      "SiBlender"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -95,5 +95,6 @@
   "tech/vite.md": "SiVite",
   "tech/vuejs.md": "SiVuedotjs",
   "tech/baseimage-docker.md": "SiDocker",
-  "tech/elixir.md": "SiElixir"
+  "tech/elixir.md": "SiElixir",
+  "tech/phoenix.md": "SiPhoenixframework"
 }
