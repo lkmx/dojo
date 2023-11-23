@@ -1,0 +1,4 @@
+- title: string
+- [[en/model/tech|tech]]
+- level: integer. 100, 200, 300.
+- [[guide]]. 1..n.

@@ -16,7 +16,3 @@ Create a file named "SimpleComponent.svelte" and add the following code:
 ```
 
 Run the Svelte component in your development environment.
-
----
-
-- [ ] Add the name of the file and instructions to see the result.
