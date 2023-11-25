@@ -2,7 +2,7 @@
 title: Elixir
 tags:
   - language
-  - trial
+  - assess
 www: https://elixir-lang.org/
 source_code: https://github.com/elixir-lang/elixir
 ---
