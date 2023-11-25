@@ -12,7 +12,7 @@ Yarn requiere Node.js 14.19, 16.9 o mayor.
 
 ## Instalar yarn
 
-Las versiones modernas de yarn no se instalan globalmente o mediante npm, sino mediante `corepack`, una herramienta instalada por default en las versiones específicas de Node.js 14.19, 16.9 o mayores.
+Las versiones modernas de yarn no se instalan globalmente o mediante npm, sino mediante corepack, una herramienta instalada por default en las versiones específicas de Node.js 14.19, 16.9 o mayores.
 
 ```shell
 corepack enable
@@ -25,4 +25,4 @@ Comprueba que yarn está instalado correctamente:
 yarn --version
 ```
 
-Deberás obtener una versión `4.0.2` o posterior.
+Deberás obtener una versión 4.0.2 o posterior.
