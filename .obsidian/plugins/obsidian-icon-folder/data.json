@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTailwindcss",
       "SiYarn",
       "SiPhoenixframework",
       "SiElixir",
-      "SiDocker",
-      "SiGithub"
+      "SiDocker"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,6 @@
   "tech/baseimage-docker.md": "SiDocker",
   "tech/elixir.md": "SiElixir",
   "tech/phoenix.md": "SiPhoenixframework",
-  "tech/yarn.md": "SiYarn"
+  "tech/yarn.md": "SiYarn",
+  "tech/tailwindcss-typography.md": "SiTailwindcss"
 }
