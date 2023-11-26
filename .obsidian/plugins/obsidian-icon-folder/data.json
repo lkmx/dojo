@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPnpm",
+      "SiNpm",
       "SiTailwindcss",
       "SiYarn",
-      "SiPhoenixframework",
-      "SiElixir",
-      "SiDocker"
+      "SiPhoenixframework"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -98,5 +98,7 @@
   "tech/elixir.md": "SiElixir",
   "tech/phoenix.md": "SiPhoenixframework",
   "tech/yarn.md": "SiYarn",
-  "tech/tailwindcss-typography.md": "SiTailwindcss"
+  "tech/tailwindcss-typography.md": "SiTailwindcss",
+  "tech/npm.md": "SiNpm",
+  "tech/pnpm.md": "SiPnpm"
 }
