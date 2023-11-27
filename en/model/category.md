@@ -1,0 +1,1 @@
+Category is a slice of the sphere, a specific usage that helps effectively compare technology.
