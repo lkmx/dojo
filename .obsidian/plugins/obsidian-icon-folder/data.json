@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiPnpm",
-      "SiNpm",
-      "SiTailwindcss",
-      "SiYarn",
-      "SiPhoenixframework"
+      "SiDocker",
+      "SiGooglecloud",
+      "SiObsstudio",
+      "SiWordpress",
+      "SiPnpm"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -100,5 +100,10 @@
   "tech/yarn.md": "SiYarn",
   "tech/tailwindcss-typography.md": "SiTailwindcss",
   "tech/npm.md": "SiNpm",
-  "tech/pnpm.md": "SiPnpm"
+  "tech/pnpm.md": "SiPnpm",
+  "tech/wordpress.md": "SiWordpress",
+  "tech/obs-studio.md": "SiObsstudio",
+  "tech/gcloud.md": "SiGooglecloud",
+  "tech/docker.md": "SiDocker",
+  "tech/docker-compose.md": "SiDocker"
 }

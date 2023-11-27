@@ -1,5 +1,5 @@
 ---
-title: OBS
+title: OBS Studio
 tags:
   - tool
   - adopt
