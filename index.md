@@ -1,7 +1,7 @@
 ---
 title: Welcome
 ---
-Dojo is the technology knowledge base of LKMX. Designed to organize and interpret the Software Engineering landscape, it is a central hub for learning, using, and progressing technology.
+Dojo is LKMX's technology knowledge base. Designed to organize and interpret the Software Engineering landscape, it is a central hub for learning, using, and progressing technology.
 
 At its core, Dojo adopts a simplified model that identifies two critical attributes for each technology: its [[type]] and [[ring]].
 

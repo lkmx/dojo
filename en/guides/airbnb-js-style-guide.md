@@ -3,6 +3,8 @@ title: Airbnb JavaScript Style Guide
 tags:
   - convention
   - adopt
+category: "[[JavaScript Style Guide]]"
+www: https://github.com/airbnb/javascript
 ---
 The Airbnb JavaScript Style Guide is a set of coding conventions and rules for JavaScript programming designed by Airbnb. Its primary aim is to promote readability, maintainability, and best practices in JavaScript coding. It covers various aspects of JavaScript coding, including syntax, naming conventions, types, functions, objects, arrays, destructuring, strings, operators, blocks, comments, whitespace, commas, semicolons, type casting, and more. This guide is widely adopted in the industry and is often used as a benchmark for writing clean and efficient JavaScript code. It's available on GitHub and is regularly updated to reflect current programming standards and practices.
 
