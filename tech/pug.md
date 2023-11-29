@@ -3,7 +3,7 @@ title: Pug
 tags:
   - library
   - hold
-categories: "[[JavaScript Template Engines]]"
+category: "[[JavaScript Template Engines]]"
 www: https://pugjs.org/
 ---
 Pug is a high-performance template engine heavily influenced by Haml and implemented with JavaScript for Node.js and browsers.
