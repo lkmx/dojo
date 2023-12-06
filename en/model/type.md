@@ -17,7 +17,7 @@ In the design phase, the focus is on conceptualizing and planning a solution. He
 
 ## Interaction
 
-- [[story|Stories]]. Concise narratives that outline user experiences and interactions with software, focusing on achieving specific user outcomes.
+- [[stories|Stories]]. Concise narratives that outline user experiences and interactions with software, focusing on achieving specific user outcomes.
 - [[process|Processes]]. Structured sequences of actions facilitate stakeholders' creation, deployment, and use of software.
 - [[soft-skills|Soft Skills]]. Essential interpersonal abilities that enhance communication, collaboration, and problem-solving in technology environments.
 
