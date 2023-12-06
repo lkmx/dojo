@@ -4,6 +4,8 @@ tags:
   - framework
   - trial
 category: "[[Web Frameworks]]"
+www: https://astro.build/
+source_code: https://github.com/withastro/astro
 ---
 Astro is an innovative, open-source web framework designed for building modern web applications. It distinguishes itself through its component-based architecture, enabling developers to build fast, efficient websites using their favorite UI frameworks, such as React, Vue, or Svelte, within the same project. One of the key features of Astro is its focus on performance, primarily achieved through partial hydration. Unlike traditional Single Page Application (SPA) frameworks that load and hydrate the entire application, Astro only sends the necessary JavaScript to the browser, reducing load times and improving user experience.
 
