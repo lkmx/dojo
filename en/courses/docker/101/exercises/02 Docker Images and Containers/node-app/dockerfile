@@ -1,0 +1,25 @@
+FROM node
+
+WORKDIR /app
+
+COPY package.json /app
+
+RUN npm install
+
+COPY . /app
+
+EXPOSE 3000
+
+CMD ["node", "server.js"]
+
+
+# docker build .
+#docker run -d -p 3000:3000 <imagen>
+#docker stop <container>
+# docker run --name node-app -d -p 3000:3000 <imagen>
+#docker stop node-app
+#docker rm node-app
+#docker rmi <image>
+#docker build -t node-app:test .
+#docker run --name node-app -d --rm -p 3000:3000 node-app:test
+#docker stop node-app
