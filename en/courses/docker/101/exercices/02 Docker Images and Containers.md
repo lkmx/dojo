@@ -47,7 +47,7 @@ docker build .
 For node app
 
 ```
-docker run -p 3000:{{port to expose}} {{generated node image id}}
+docker run -d -p 3000:{{port to expose}} {{generated node image id}}
 ```
 
 For python app
@@ -61,7 +61,7 @@ docker run -it {{generated python image id}}
 For node app
 
 ```
-docker run -p 3000:{{port to expose}} --name {{name for the new container}} {{generated node image id}}
+docker run -d -p 3000:{{port to expose}} --name {{name for the new container}} {{generated node image id}}
 ```
 
 For python app
@@ -117,7 +117,7 @@ docker build -t {{image name}}:{{image version}} .
 For node app
 
 ```
-docker run -p 3000:{{port to expose}} --rm {{image name}}:{{image version}}
+docker run -d -p 3000:{{port to expose}} --rm {{image name}}:{{image version}}
 ```
 
 For python app
