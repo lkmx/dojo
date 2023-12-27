@@ -2,6 +2,6 @@ Watch "Docker Compose: Elegant Multi-Container Orchestration" in [Docker & Kuber
 
 ## Exercise
 
-1. 
-2. 
-3. 
+1. Build the frontend and backend images separately (optionally upload them to docker hub).
+2. Remove the build steps from the compose file and add the already built images.
+3. Run everything with `docker compose up` to verify it works.
