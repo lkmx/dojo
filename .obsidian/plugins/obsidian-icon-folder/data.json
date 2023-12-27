@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSketch",
+      "SiWindows",
       "SiDocker",
       "SiGooglecloud",
-      "SiObsstudio",
-      "SiWordpress",
-      "SiPnpm"
+      "SiObsstudio"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -105,5 +105,7 @@
   "tech/obs-studio.md": "SiObsstudio",
   "tech/gcloud.md": "SiGooglecloud",
   "tech/docker.md": "SiDocker",
-  "tech/docker-compose.md": "SiDocker"
+  "tech/docker-compose.md": "SiDocker",
+  "tech/windows.md": "SiWindows",
+  "tech/Sketch App.md": "SiSketch"
 }
